@@ -1,0 +1,269 @@
+{
+  "_what": "Canonical shopping items. Everything on the list collapses onto one of these, so a total counts CARTS not mentions.",
+  "_status": "Prices are one-shop estimates for Connecticut, 2026-08. Not quotes.",
+  "canon": {
+    "chicken": [
+      "chicken",
+      "rotisserie",
+      "cutlet",
+      "tender",
+      "nugget",
+      "perdue",
+      "realgood"
+    ],
+    "turkey": [
+      "turkey"
+    ],
+    "beef": [
+      "beef",
+      "steak",
+      "burger"
+    ],
+    "pork": [
+      "pork",
+      "bacon",
+      "ham",
+      "canadian"
+    ],
+    "sausage": [
+      "sausage",
+      "kielbasa",
+      "al fresco",
+      "pepperoni"
+    ],
+    "deli meat": [
+      "deli"
+    ],
+    "salmon": [
+      "salmon"
+    ],
+    "white fish": [
+      "cod",
+      "tilapia",
+      "mahi"
+    ],
+    "shrimp": [
+      "shrimp"
+    ],
+    "canned tuna": [
+      "tuna"
+    ],
+    "eggs": [
+      "egg"
+    ],
+    "greek yogurt": [
+      "yogurt",
+      "fage"
+    ],
+    "cottage cheese": [
+      "cottage"
+    ],
+    "cheese": [
+      "cheese",
+      "feta",
+      "mozzarella",
+      "parmesan",
+      "cheddar"
+    ],
+    "butter": [
+      "butter",
+      "cream"
+    ],
+    "salad greens": [
+      "lettuce",
+      "romaine",
+      "greens",
+      "spinach",
+      "salad"
+    ],
+    "berries": [
+      "berries",
+      "blueberr",
+      "strawberr"
+    ],
+    "apples": [
+      "apple"
+    ],
+    "avocado": [
+      "avocado"
+    ],
+    "citrus": [
+      "lemon",
+      "lime"
+    ],
+    "celery": [
+      "celery"
+    ],
+    "cucumber": [
+      "cuke",
+      "cucumber"
+    ],
+    "tomatoes": [
+      "tomato"
+    ],
+    "peppers": [
+      "pepper"
+    ],
+    "onions": [
+      "onion"
+    ],
+    "carrots": [
+      "carrot"
+    ],
+    "broccoli": [
+      "broccoli"
+    ],
+    "cauliflower": [
+      "cauliflower",
+      "alexia"
+    ],
+    "zucchini": [
+      "zucchini"
+    ],
+    "green veg": [
+      "asparagus",
+      "green bean",
+      "brussels",
+      "cabbage",
+      "radish",
+      "squash",
+      "eggplant",
+      "mushroom"
+    ],
+    "sweet potato": [
+      "sweet potato",
+      "potato"
+    ],
+    "rice or quinoa": [
+      "quinoa",
+      "rice"
+    ],
+    "beans": [
+      "bean",
+      "chickpea",
+      "lentil"
+    ],
+    "bread or wraps": [
+      "bread",
+      "toast",
+      "wrap",
+      "tortilla",
+      "bagel",
+      "cracker",
+      "wasa",
+      "sola",
+      "mission",
+      "joseph"
+    ],
+    "nuts and seeds": [
+      "almond",
+      "cashew",
+      "walnut",
+      "pecan",
+      "nut",
+      "chia",
+      "flax",
+      "hemp"
+    ],
+    "peanut butter": [
+      "peanut butter",
+      "pb2"
+    ],
+    "condiments": [
+      "oil",
+      "vinegar",
+      "mayo",
+      "mustard",
+      "salsa",
+      "dressing",
+      "sauce",
+      "syrup",
+      "seasoning"
+    ]
+  },
+  "price": {
+    "chicken": 9.0,
+    "turkey": 6.0,
+    "beef": 8.0,
+    "pork": 6.0,
+    "sausage": 6.0,
+    "deli meat": 6.0,
+    "salmon": 12.0,
+    "white fish": 10.0,
+    "shrimp": 10.0,
+    "canned tuna": 3.0,
+    "eggs": 4.0,
+    "greek yogurt": 6.0,
+    "cottage cheese": 5.0,
+    "cheese": 5.0,
+    "butter": 4.5,
+    "salad greens": 4.0,
+    "berries": 5.0,
+    "apples": 4.0,
+    "avocado": 3.0,
+    "citrus": 2.0,
+    "celery": 2.5,
+    "cucumber": 2.0,
+    "tomatoes": 3.0,
+    "peppers": 3.5,
+    "onions": 2.0,
+    "carrots": 2.0,
+    "broccoli": 2.5,
+    "cauliflower": 3.0,
+    "zucchini": 2.0,
+    "green veg": 4.0,
+    "sweet potato": 3.0,
+    "rice or quinoa": 5.0,
+    "beans": 3.0,
+    "bread or wraps": 5.0,
+    "nuts and seeds": 7.0,
+    "peanut butter": 4.0,
+    "condiments": 6.0
+  },
+  "buysPerMonth": {
+    "chicken": 2,
+    "turkey": 2,
+    "beef": 2,
+    "pork": 2,
+    "sausage": 2,
+    "deli meat": 3,
+    "salmon": 2,
+    "white fish": 2,
+    "shrimp": 2,
+    "canned tuna": 1,
+    "eggs": 3,
+    "greek yogurt": 3,
+    "cottage cheese": 3,
+    "cheese": 2,
+    "butter": 1,
+    "salad greens": 4,
+    "berries": 4,
+    "apples": 3,
+    "avocado": 4,
+    "citrus": 2,
+    "celery": 2,
+    "cucumber": 3,
+    "tomatoes": 3,
+    "peppers": 3,
+    "onions": 1,
+    "carrots": 2,
+    "broccoli": 3,
+    "cauliflower": 3,
+    "zucchini": 3,
+    "green veg": 3,
+    "sweet potato": 2,
+    "rice or quinoa": 1,
+    "beans": 1,
+    "bread or wraps": 3,
+    "nuts and seeds": 1,
+    "peanut butter": 1,
+    "condiments": 1
+  },
+  "_shelfLife": "How many times a 28-day month requires buying each item. Pantry staples are one purchase; leafy produce and berries are four. Costing a month as four identical weeks charges olive oil and rice four times over.",
+  "_buyNotes": {
+    "1": "one purchase covers the month",
+    "2": "bought twice; freeze half or buy mid-month",
+    "3": "bought roughly weekly",
+    "4": "bought weekly, spoils fastest"
+  }
+}

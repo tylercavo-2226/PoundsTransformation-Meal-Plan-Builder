@@ -1,0 +1,294 @@
+{
+  "_comment": "Macro engine for the Pounds On-Ramp. Targets stated by Dr. Cavo. Every null marked TODO(sharepoint) must be filled from practice source material before a patient build is allowed.",
+  "version": "0.6.0-reviewer-fat-sources",
+  "durationDays": 28,
+  "macros": {
+    "calories": {
+      "target": 1200,
+      "min": 1100,
+      "max": 1250,
+      "unit": "kcal",
+      "subordinateTo": "protein",
+      "answeredBy": "Cavo 2026-08-26: protein takes priority. Going over 1200 to hit protein is allowed.",
+      "TODO(cavo)": "How far over 1200 is acceptable before it stops being a 1200 calorie plan? Build warns above 1250 but will not fail while protein is in range."
+    },
+    "carbohydrate": {
+      "min": 50,
+      "max": 75,
+      "unit": "g"
+    },
+    "protein": {
+      "min": 90,
+      "max": null,
+      "unit": "g",
+      "answeredBy": "Cavo 2026-08-26: '90-110g is the range' + 'Protein takes the priority.'",
+      "revisedBy": "Cavo, relayed by Tyler 2026-08-27: days CAN run over on protein. So 110 is a soft upper reference, not a ceiling. 90g is the enforced floor and there is no maximum.",
+      "softTarget": 110,
+      "PROVENANCE": "Relayed verbally through Tyler, NOT in writing from Cavo. Confirm in the sign-off email before the patient copy ships."
+    },
+    "fat": {
+      "min": null,
+      "max": null,
+      "unit": "g",
+      "tracked": true,
+      "answeredBy": "Tyler 2026-08-27: track fat, carbs and protein.",
+      "note": "Tracked and displayed on every day and in the patient copy. No band is set, so a day cannot fail on fat - but a day with UNKNOWN fat is now incomplete rather than acceptable.",
+      "TODO": "Days 1-5 come from the 1,150 menu, which states calories, carb and protein only. Their fat is unknown and will NOT be derived. The RD needs to supply it, or those days stay flagged."
+    }
+  },
+  "wheyCountsInsideCalories": true,
+  "_wheyNote": "Cavo 2026-08-27: 'The protein supplement counts towards the 1200 cal diet.' So the whey's protein and calories come OUT of the daily budget, and food must hit the bands with the whey included, not on top of it.",
+  "supplements": [
+    {
+      "id": "ketocitra",
+      "name": "KetoCitra",
+      "dose": "1 scoop",
+      "timing": "daily",
+      "withFood": null,
+      "recommendedFor": "all patients",
+      "answeredBy": "Cavo 2026-08-26: recommended for everyone alongside creatine.",
+      "price": "$159.99",
+      "source": "poundsmwlt.com store listing, retrieved 2026-08-26",
+      "confirmedBy": "Dr. Cavo, email 2026-08-27: '1 scoop of ketocitra daily. Recommended for all patients.'",
+      "basis": "Cavo 2026-08-27, explicit.",
+      "dietary": {
+        "status": "LIKELY OK",
+        "vegan": true,
+        "dairyFree": true,
+        "note": "Product page states non-GMO, vegan, gluten free. Calcium and potassium citrate salts."
+      }
+    },
+    {
+      "id": "allulose",
+      "name": "GlucoSupreme Gummies (Allulose Blood Sugar Support, 80ct)",
+      "dose": "3 gummies (one label serving)",
+      "timing": "daily, 30 minutes before the last meal of the day",
+      "withFood": null,
+      "price": "$34.99",
+      "sku": "80 gummies, ~26 servings",
+      "macros": {
+        "kcal": null,
+        "protein": 0,
+        "carb": 0,
+        "fat": 0,
+        "note": "Label states zero sugar, zero NET carbs. Allulose ~0.4 kcal/g. Total carb grams still needed for the 50-75g band."
+      },
+      "source": "poundsmwlt.com store listing, retrieved 2026-08-26",
+      "confirmedBy": "Dr. Cavo, email 2026-08-27: 'used daily 30 min before last meal of the day.'",
+      "resolved": "Timing conflict settled. Cavo overrides the label's 'with carb-containing meals' with a single daily dose before the last meal.",
+      "basis": "Quantity from the label serving size (80 gummies, ~26 servings = 3 per serving). Timing from Cavo 2026-08-27, which overrides the label's 'with carb-containing meals'.",
+      "dietary": {
+        "status": "UNREVIEWED",
+        "vegan": null,
+        "dairyFree": null,
+        "note": "Gummies are commonly gelatin-based, which is not vegan. Pectin versions exist. The product page does not state which. Check the label."
+      }
+    },
+    {
+      "id": "multi",
+      "name": "Transform MultiVitamin",
+      "dose": "4 capsules",
+      "timing": "daily, with food",
+      "withFood": true,
+      "sku": "ID# 152120 (120 capsules), serving size 4 capsules",
+      "source": "_source/03_supplement_dosing/Transform MultiVitamin.pdf",
+      "basis": "Label Directions panel: '4 capsules per day with food'. Suggested Use offers 4-8; the Directions figure is the operative one. SKU ID# 152120, serving size 4 capsules.",
+      "dietary": {
+        "status": "UNREVIEWED",
+        "vegan": null,
+        "dairyFree": null,
+        "note": "Capsule shell and D3 source both need checking. D3 is usually lanolin, not vegan."
+      }
+    },
+    {
+      "id": "nakedwhey",
+      "name": "Naked Whey (Grass Fed Whey Protein Powder, unflavored)",
+      "dose": "2 scoops (30 g) in water",
+      "timing": "daily",
+      "withFood": null,
+      "source": "nakednutrition.com nutrition facts panel, retrieved 2026-08-27. Image saved at _source/03_supplement_dosing/naked-whey-nutrition-facts.jpg",
+      "confirmedBy": "Dr. Cavo, email 2026-08-27: 'Naked Whey flavorless. 2 scoops in water.' | Label macros read from the manufacturer's nutrition facts panel. Cavo's '2 scoops' matches the stated 30 g serving.",
+      "sku": "Grass Fed Whey Protein Powder, 2LB, $62.99, handle grass-fed-whey-protein-powder-2lb",
+      "macros": {
+        "servingSize": "30 g (about 2 scoops)",
+        "kcal": 120,
+        "protein": 25,
+        "carb": 3,
+        "fat": 2,
+        "saturatedFat": 0.5,
+        "sodium_mg": 135,
+        "cholesterol_mg": 50,
+        "sugars": 2,
+        "fibre": 0,
+        "servingsPerContainer": 30,
+        "ingredients": "Whey Protein Concentrate. Contains milk."
+      },
+      "flavour": "flavourless (unflavored)",
+      "countsInsideCalories": true,
+      "basis": "Dose and flavour from Cavo 2026-08-27; matches the label's 30 g / about 2 scoops serving. Label offers morning, pre- or post-workout, so it does not prescribe a time. Placement in the day is a PLAN decision, recorded below, not a clinical one.",
+      "dietary": {
+        "status": "BLOCKS VEGAN",
+        "vegan": false,
+        "dairyFree": false,
+        "note": "Whey protein concentrate. Label states 'CONTAINS: Milk.' Fails both vegan and dairy-free. It also carries 25 g of the day's protein and 120 kcal, so removing it leaves a hole that a plant protein has to fill. Cavo must name the substitute. The practice already names its own dairy-free substitutes in '1200-1300 cals low dairy 110 g p .docx'. Cavo picks one and sets a dose.",
+        "substitutesNamedByPractice": [
+          "OWYN dairy-free protein shake",
+          "Kite Hill Greek Style yogurt (dairy-free)",
+          "vegan protein powder"
+        ]
+      }
+    },
+    {
+      "id": "creatine",
+      "name": "Creatine Monohydrate (OMPI)",
+      "dose": "1 scoop (5 g) in 8 oz water",
+      "timing": "daily",
+      "withFood": null,
+      "recommendedFor": "all new patients",
+      "addedBy": "Cavo 2026-08-26. NEW, was not in the original four.",
+      "source": "poundsmwlt.com store listing, retrieved 2026-08-26",
+      "price": "$31.99",
+      "sku": "OMPI Creatine",
+      "macros": {
+        "kcal": 0,
+        "protein": 0,
+        "carb": 0,
+        "fat": 0
+      },
+      "caution": "Consult provider if pregnant or nursing.",
+      "basis": "Label Suggested Use, verbatim. Cavo added creatine 2026-08-26 for all patients.",
+      "dietary": {
+        "status": "LIKELY OK",
+        "vegan": true,
+        "dairyFree": true,
+        "note": "Creatine monohydrate is synthesised, not animal-derived. Confirm the capsule/powder base."
+      }
+    }
+  ],
+  "weeks": [
+    {
+      "week": 1,
+      "theme": "Lowest volume. Liquid-forward. Built around early satiety and nausea.",
+      "TODO(sharepoint)": "Confirm the nausea-management guidance the practice already gives."
+    },
+    {
+      "week": 2,
+      "theme": "Solid food rebuilds. Protein anchored at every meal."
+    },
+    {
+      "week": 3,
+      "theme": "Full pattern. Swap bank introduced."
+    },
+    {
+      "week": 4,
+      "theme": "The pattern the patient keeps after the on-ramp ends."
+    }
+  ],
+  "titration": {
+    "agentSpecific": false,
+    "appliesTo": "starting dose only",
+    "answeredBy": "Cavo 2026-08-26: one standard framework for everyone at the starting dose.",
+    "TODO(cavo)": "Protocol is scoped to the STARTING DOSE. What happens when the patient titrates up past week 4?"
+  },
+  "tracks": [
+    "standard"
+  ],
+  "_tracksNote": "Cavo 2026-08-26: standard first. Variants deferred, not cancelled.",
+  "compliance": {
+    "forbidResultsPromises": true,
+    "forbidTimelineClaims": true,
+    "forbidPoundCounts": true,
+    "forbidInsuranceSpecifics": true,
+    "forbidDiseaseClaims": true,
+    "forbidPHI": true,
+    "requireSignoff": [
+      "Dr. Cavo",
+      "the reviewing dietitian"
+    ],
+    "claimsRequiringSubstantiation": [
+      {
+        "claim": "muscle preserving",
+        "products": [
+          "creatine",
+          "ketocitra"
+        ],
+        "status": "UNSUBSTANTIATED IN REPO",
+        "note": "Creatine for muscle preservation is defensible. Needs a source in _source/ before it appears in patient copy."
+      },
+      {
+        "claim": "sugar stabilizing",
+        "products": [
+          "ketocitra"
+        ],
+        "status": "UNSUBSTANTIATED IN REPO",
+        "note": "Blood-sugar language on a supplement recommended to every patient is the highest-risk sentence in the document. Needs Cavo substantiation or it does not ship in patient copy."
+      }
+    ],
+    "signoffNote": "Tyler 2026-08-27: any of the practice's dietitians may review the plans they put together, not only Pam or Alisha. The staff copy records WHO signed, not which name was expected."
+  },
+  "clinicalFlags": [
+    {
+      "id": "ketocitra-medical-food",
+      "severity": "HIGH",
+      "issue": "KetoCitra is marketed as a medical food for chronic kidney conditions. Its mechanism is a potassium and calcium citrate blend. Cavo has asked for it to be recommended to EVERY new patient as muscle preserving and sugar stabilizing.",
+      "why": "The product itself claims neither muscle preservation nor blood-sugar stabilisation. A daily potassium load recommended blanket-wide is a prescribing decision, not a content decision - it interacts with renal function and with ACE inhibitors, ARBs and potassium-sparing diuretics.",
+      "action": "Cavo confirms in writing, with a dose, before this appears in any patient copy."
+    },
+    {
+      "id": "allulose-claim",
+      "severity": "MEDIUM",
+      "issue": "The gummies are literally named 'Blood Sugar Support' and the copy claims GLP-1 production and glycemic blunting, each carrying the FDA structure/function asterisk.",
+      "why": "This substantiates Cavo's 'sugar stabilizing' phrase as a manufacturer claim, but a manufacturer claim carried into a physician's patient protocol reads as a clinical endorsement.",
+      "action": "Keep the asterisked disclaimer wording, or drop the phrase from patient copy."
+    }
+  ],
+  "planDecisions": [
+    {
+      "id": "whey-placement",
+      "decision": "The whey occupies one numbered meal slot rather than sitting alongside the food.",
+      "why": "Cavo: the protein supplement counts towards the 1200. If it were additional to four full meals the day would overshoot. Their own patient planner runs MEAL #1 to #6, so the shake takes a slot.",
+      "status": "PROPOSED - needs a nod from Cavo or the reviewing RD, not a label lookup."
+    }
+  ],
+  "trackNotes": {
+    "standard": "Built. 7 days.",
+    "dairy-free": "PARTIAL SOURCE. '1200-1300 cals low dairy 110 g p' exists but is LOW dairy, not dairy-free - it still contains feta, mozzarella and Laughing Cow, so it is not safe for an allergy. It also states no carbohydrate. Substitute protein IS named in practice material: OWYN dairy-free shake, Kite Hill yogurt, vegan protein powder.",
+    "vegan": "COMPONENTS ONLY. Six branded vegan entrees carry full macros; no assembled menu at 1,200 kcal / 90 g protein exists. Every plant-based menu in the dump states meal names without macros."
+  },
+  "approvedSources": {
+    "_status": "PROPOSED - NOT YET APPROVED BY CAVO. No food has been added under this yet.",
+    "_why": "The vegan track cannot be built from practice material: the best day assemblable is 4 g protein against a 90 g floor. Filling it needs food data from outside _source/, which is a deliberate departure from 'practice material only' and therefore Cavo's call, not the builder's.",
+    "_rule": "Any food added from outside _source/ MUST carry sourceType and a citation (FDC id, or manufacturer + label URL). The build rejects a food with neither a _source/ file nor an approved citation.",
+    "candidates": [
+      {
+        "id": "usda-fdc",
+        "name": "USDA FoodData Central",
+        "url": "https://fdc.nal.usda.gov/",
+        "api": "https://api.nal.usda.gov/fdc/v1/",
+        "covers": "Generic whole foods: tofu, tempeh, lentils, seitan, legumes, grains.",
+        "why": "US government reference data. Authoritative, free, per-100g and per-serving.",
+        "caveat": "Needs a free API key from api.data.gov. Not yet obtained.",
+        "approved": null
+      },
+      {
+        "id": "manufacturer-label",
+        "name": "Manufacturer nutrition facts panel",
+        "covers": "Branded products the practice already recommends: OWYN, Kite Hill, RxSugar, Sola, Catalina Crunch.",
+        "why": "Already used once for Naked Whey - the panel was read off the manufacturer site and saved into _source/. Same method, same traceability.",
+        "caveat": "Panel must be saved as an image alongside the entry, not just cited.",
+        "approved": null
+      }
+    ],
+    "rejected": [
+      {
+        "name": "Recipe sites, blogs, MyFitnessPal user entries, AI estimates",
+        "why": "Crowd-entered or generated. No provenance. Not defensible in a patient document."
+      }
+    ]
+  },
+  "delivery": {
+    "primary": "printed, or handed over as a meal PDF",
+    "answeredBy": "Tyler 2026-08-27",
+    "implication": "Print fidelity is the priority over screen. Landscape weekly grid, one week per page, collapsed detail expanded before printing, no colour dependence."
+  }
+}

@@ -1,0 +1,28 @@
+DROP THE SHAREPOINT DOWNLOADS IN HERE
+=====================================
+
+Unzip straight into these folders. Rough sorting is fine, I will read whatever lands.
+
+01_foundation/          Liz's 1200 cal / 50-75g carb / 90-110g protein sheet.
+                        The actual document, not a summary.
+
+02_glp_education/       Current GLP-1 patient education material.
+                        Nausea guidance, what to expect, handouts.
+
+03_supplement_dosing/   Dose and timing sheets for all FIVE:
+                        KetoCitra, allulose gummies, multivitamin,
+                        Naked Whey, creatine.
+                        Also anything substantiating "muscle preserving"
+                        or "sugar stabilizing."
+
+04_existing_meal_lists/ Any meal or snack lists patients already get.
+
+RULE
+----
+Clinical education material only.
+
+NOTHING WITH A PATIENT NAME ON IT. No charts, no records, no intake forms
+with real data. If a file has a patient identifier in it, it does not belong
+in this repo at all.
+
+When files are in, tell me and I will start building.

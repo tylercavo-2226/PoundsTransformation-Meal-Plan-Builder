@@ -1,0 +1,51 @@
+{
+  "_what": "Rough unit-price estimates for grocery budgeting. NOT clinical data.",
+  "_status": "ESTIMATED. Every entry below is a ballpark US supermarket price, not a quote.",
+  "_why_estimates": "Grocery sites cannot be read programmatically - Stop & Shop, Big Y, Walmart and Aldi all block automated requests, Target renders prices client-side. BLS publishes national average retail prices via a free API, but its item-definition file is access-restricted, so a series ID cannot be reliably matched to a food without guessing. Estimates are honest; a mislabelled 'official' price is not.",
+  "_how_to_fix": "Replace any entry with a real captured price and set verified:true plus capturedAt and store. The generator prefers verified entries and shows how many of each a total is built from.",
+  "_disclaimer_shown_to_patients": "Estimated cost. Prices vary by store, brand and week.",
+  "_region": "Connecticut. Pounds serves West Hartford, Glastonbury and Southington.",
+  "_updated": "2026-08-27",
+
+  "units": {
+    "lb": "per pound", "each": "per item", "doz": "per dozen",
+    "pkg": "per package", "qt": "per quart", "bunch": "per bunch"
+  },
+
+  "items": [
+    { "match": ["chicken breast", "chicken cutlet", "rotisserie chicken", "chicken thigh", "chicken tender", "chicken strip"], "unit": "lb", "est": 4.50, "verified": false },
+    { "match": ["ground turkey", "turkey burger"],        "unit": "lb",  "est": 5.50, "verified": false },
+    { "match": ["ground beef", "beef", "steak"],          "unit": "lb",  "est": 6.50, "verified": false },
+    { "match": ["salmon"],                                 "unit": "lb",  "est": 11.00, "verified": false },
+    { "match": ["cod", "tilapia", "white fish", "mahi"],   "unit": "lb",  "est": 9.00, "verified": false },
+    { "match": ["shrimp"],                                 "unit": "lb",  "est": 10.00, "verified": false },
+    { "match": ["tuna", "canned tuna"],                    "unit": "each","est": 1.60, "verified": false },
+    { "match": ["sausage", "kielbasa", "bacon", "canadian bacon", "pepperoni", "deli", "ham"], "unit": "pkg", "est": 6.00, "verified": false },
+    { "match": ["egg"],                                    "unit": "doz", "est": 4.00, "verified": false },
+    { "match": ["greek yogurt", "yogurt", "cottage cheese"], "unit": "pkg", "est": 5.50, "verified": false },
+    { "match": ["cheese", "feta", "mozzarella", "parmesan", "cheddar", "string cheese"], "unit": "pkg", "est": 4.50, "verified": false },
+    { "match": ["butter", "cream", "half and half"],       "unit": "pkg", "est": 4.50, "verified": false },
+    { "match": ["milk", "almond milk", "oat milk"],        "unit": "qt",  "est": 3.00, "verified": false },
+    { "match": ["berries", "blueberries", "strawberries"], "unit": "pkg", "est": 4.50, "verified": false },
+    { "match": ["apple", "banana", "lemon", "lime", "avocado"], "unit": "each", "est": 1.00, "verified": false },
+    { "match": ["spinach", "greens", "lettuce", "romaine", "salad"], "unit": "pkg", "est": 3.50, "verified": false },
+    { "match": ["broccoli", "cauliflower", "zucchini", "asparagus", "green bean", "brussels", "pepper", "onion", "celery", "cucumber", "cuke", "tomato", "carrot", "radish", "cabbage", "squash", "eggplant", "mushroom"], "unit": "each", "est": 2.00, "verified": false },
+    { "match": ["sweet potato", "potato"],                 "unit": "lb",  "est": 1.50, "verified": false },
+    { "match": ["quinoa", "brown rice", "rice", "oat"],    "unit": "pkg", "est": 4.00, "verified": false },
+    { "match": ["bread", "toast", "wrap", "tortilla", "bagel", "cracker"], "unit": "pkg", "est": 4.50, "verified": false },
+    { "match": ["black bean", "chickpea", "lentil", "bean"], "unit": "each", "est": 1.30, "verified": false },
+    { "match": ["almond", "cashew", "walnut", "pecan", "nut", "peanut butter", "pb2", "chia", "flax", "hemp"], "unit": "pkg", "est": 6.00, "verified": false },
+    { "match": ["olive oil", "oil", "vinegar", "mayo", "mustard", "salsa", "dressing", "sauce", "seasoning", "spice"], "unit": "each", "est": 3.50, "verified": false }
+  ],
+
+  "practiceProducts": {
+    "_note": "Real prices, pulled from poundsmwlt.com 2026-08-26. These ARE verified.",
+    "ketocitra": 159.99,
+    "glucosupreme-gummies": 34.99,
+    "creatine-monohydrate": 31.99,
+    "pounds-protein-bar": 16.99,
+    "proti-chips": 2.75,
+    "dinner-plans-book": 30.00,
+    "naked-whey-2lb": 62.99
+  }
+}

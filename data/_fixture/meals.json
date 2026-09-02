@@ -1,0 +1,36 @@
+{
+  "_warning": "SYNTHETIC TEST DATA. NOT FOOD ADVICE. NOT CLINICAL CONTENT.",
+  "_note": "Macros are internally consistent (protein x4 + carb x4 + fat x9) so the meal-arithmetic check stays quiet and only the intended failures fire.",
+  "meals": [
+    {
+      "id": "fx-breakfast", "name": "TEST MEAL 1", "slot": "breakfast", "track": "standard",
+      "swapGroup": "fx", "source": "FIXTURE",
+      "items": ["1 unit TEST BLOCK P", "1 unit TEST BLOCK C", "1 unit TEST BLOCK F"],
+      "macros": { "kcal": 340, "protein": 34, "carb": 22, "fat": 13.5 }
+    },
+    {
+      "id": "fx-lunch", "name": "TEST MEAL 2", "slot": "lunch", "track": "standard",
+      "swapGroup": "fx", "source": "FIXTURE",
+      "items": ["1 unit TEST BLOCK P", "1 unit TEST BLOCK C", "1.5 units TEST BLOCK F"],
+      "macros": { "kcal": 385, "protein": 34, "carb": 22, "fat": 18 }
+    },
+    {
+      "id": "fx-dinner", "name": "TEST MEAL 3", "slot": "dinner", "track": "standard",
+      "swapGroup": "fx", "source": "FIXTURE",
+      "items": ["1 unit TEST BLOCK P", "1 unit TEST BLOCK C", "2 units TEST BLOCK F"],
+      "macros": { "kcal": 430, "protein": 34, "carb": 22, "fat": 23 }
+    },
+    {
+      "id": "fx-underprotein", "name": "TEST MEAL BROKEN", "slot": "dinner", "track": "standard",
+      "swapGroup": "fx", "source": "FIXTURE",
+      "items": ["1 unit TEST BLOCK C", "2 units TEST BLOCK F"],
+      "macros": { "kcal": 280, "protein": 4, "carb": 20, "fat": 20.5 }
+    },
+    {
+      "id": "fx-calorie-overage", "name": "TEST MEAL OVERAGE", "slot": "snack", "track": "standard",
+      "swapGroup": "fx", "source": "FIXTURE",
+      "items": ["2 units TEST BLOCK F"],
+      "macros": { "kcal": 180, "protein": 0, "carb": 0, "fat": 20 }
+    }
+  ]
+}

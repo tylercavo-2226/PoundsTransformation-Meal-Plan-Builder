@@ -1,0 +1,60 @@
+{
+  "_schema": {
+    "day": "1-N",
+    "week": "1-4",
+    "meals": "[mealId] in the order the patient eats them",
+    "supplements": "[supplementId] from protocol.config.json",
+    "statedTotal": "the day total the SOURCE document claims, for reconciliation against the sum of the meals"
+  },
+  "_status": "WEEK 1 COMPLETE. 7 days. Days 1-5 from the 1,150 menu (internally consistent), days 6-7 from 1200cal 75gcho. Weeks 2-4 rotate these once the practice confirms the rotation.",
+  "_sources": [
+    "_source/01_foundation/1,150 Calories 90+ g protein 75 g carbs.docx  (days 1-5)",
+    "_source/01_foundation/1200cal 75gcho.docx  (days 6-7)"
+  ],
+  "_note": "Every day also carries the five daily supplements. The whey counts inside the 1200 per Cavo 2026-08-27, so the build adds its 120 kcal / 25 g protein / 3 g carb / 2 g fat to each day.",
+
+  "days": [
+    {
+      "day": 1, "week": 1,
+      "meals": ["m1150-b1", "m1150-l1", "m1150-s1", "m1150-d1"],
+      "supplements": ["ketocitra", "allulose", "multi", "nakedwhey", "creatine"],
+      "statedTotal": { "kcal": 1125, "protein": 120, "carb": 63 }
+    },
+    {
+      "day": 2, "week": 1,
+      "meals": ["m1150-b2", "m1150-l2", "m1150-s2", "m1150-d2"],
+      "supplements": ["ketocitra", "allulose", "multi", "nakedwhey", "creatine"],
+      "statedTotal": { "kcal": 1145, "protein": 112, "carb": 68 }
+    },
+    {
+      "day": 3, "week": 1,
+      "meals": ["m1150-b3", "m1150-l3", "m1150-s3", "m1150-d3"],
+      "supplements": ["ketocitra", "allulose", "multi", "nakedwhey", "creatine"],
+      "statedTotal": { "kcal": 1185, "protein": 121, "carb": 57 }
+    },
+    {
+      "day": 4, "week": 1,
+      "meals": ["m1150-b4", "m1150-l4", "m1150-s4", "m1150-d4"],
+      "supplements": ["ketocitra", "allulose", "multi", "nakedwhey", "creatine"],
+      "statedTotal": { "kcal": 1160, "protein": 118, "carb": 65 }
+    },
+    {
+      "day": 5, "week": 1,
+      "meals": ["m1150-b5", "m1150-l5", "m1150-s5", "m1150-d5"],
+      "supplements": ["ketocitra", "allulose", "multi", "nakedwhey", "creatine"],
+      "statedTotal": { "kcal": 1190, "protein": 117, "carb": 63 }
+    },
+    {
+      "day": 6, "week": 1,
+      "meals": ["eggs-toast-pb", "tuna-chickpea-salad", "yogurt-strawberry", "chicken-thigh-rice-broccoli"],
+      "supplements": ["ketocitra", "allulose", "multi", "nakedwhey", "creatine"],
+      "statedTotal": { "kcal": 1200, "protein": 96, "carb": 64, "fat": 46 }
+    },
+    {
+      "day": 7, "week": 1,
+      "meals": ["egg-whites-tortilla-salsa", "rotisserie-blackbean-bowl", "stringcheese-apple", "salmon-quinoa-zucchini"],
+      "supplements": ["ketocitra", "allulose", "multi", "nakedwhey", "creatine"],
+      "statedTotal": { "kcal": 1240, "protein": 98, "carb": 66, "fat": 40 }
+    }
+  ]
+}

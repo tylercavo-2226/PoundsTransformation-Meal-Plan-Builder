@@ -1,0 +1,5545 @@
+{
+  "_what": "Every branded product on the practice's store cheat sheets, with which stores carry it.",
+  "_source": "_source/04_existing_meal_lists + Macronutrients/Grocery Foods/Grocery Store Lists (25 files)",
+  "_note": "Net carb and protein only. No calories or fat, so these cannot complete a validated day on their own - they are for substitution and shopping.",
+  "count": 538,
+  "products": [
+    {
+      "name": "Wellsley Farms Tilapia Loins",
+      "netCarb": 0,
+      "protein": 34,
+      "section": "Seafood/Fish",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Butterball's Turkey Burgers",
+      "netCarb": 2,
+      "protein": 31,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Elevation High Performance Protein Shakes",
+      "netCarb": 1,
+      "protein": 30,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Premier Protein Shakes",
+      "netCarb": 2,
+      "protein": 30,
+      "section": "Breads/Rice",
+      "stores": [
+        "BJs",
+        "Big Y",
+        "Costco",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Fairlife Protein Shakes",
+      "netCarb": 3,
+      "protein": 30,
+      "section": "Breads/Rice",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Quest Protein Shake",
+      "netCarb": 3,
+      "protein": 30,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Park Street Deli Artichoke Stuffed Chicken",
+      "netCarb": 6,
+      "protein": 28,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Tuna Steaks",
+      "netCarb": 0,
+      "protein": 28,
+      "section": "Seafood/Fish",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Bowl & Basket Salmon Fillets",
+      "netCarb": 0,
+      "protein": 28,
+      "section": "Seafood",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "C. Wirthy & Co. Frozen Blackened Salmon Fillets",
+      "netCarb": 2,
+      "protein": 28,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Member's Mark Ahi Tuna",
+      "netCarb": 0,
+      "protein": 28,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Liviva High Protein Fettucine",
+      "netCarb": 8,
+      "protein": 27,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Chef's Cut Zero Sugar Biltong Jerky",
+      "netCarb": 1,
+      "protein": 26,
+      "section": "Snacks",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Good & Gather Turkey Burgers",
+      "netCarb": 0,
+      "protein": 26,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Fairlife Core Power Shakes",
+      "netCarb": 5,
+      "protein": 26,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "IsoPure Protein Powder",
+      "netCarb": 0,
+      "protein": 25,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Good & Gather Shredded Chicken",
+      "netCarb": 1,
+      "protein": 25,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Dymatize ISO 100 Protein Powder",
+      "netCarb": 1,
+      "protein": 25,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "The Better Bagel",
+      "netCarb": 5,
+      "protein": 25,
+      "section": "Breads/Cereals/Pasta",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Simply Nature Edamame Spaghetti",
+      "netCarb": 7,
+      "protein": 24,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Simply Nature Soybean Spaghetti",
+      "netCarb": 7,
+      "protein": 24,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Park Street Deli Broccoli Stuffed Chicken",
+      "netCarb": 7,
+      "protein": 24,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Wild Caught Sockeye Salmon Fillets",
+      "netCarb": 0,
+      "protein": 24,
+      "section": "Seafood/Fish",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Quest Protein Powder",
+      "netCarb": 2,
+      "protein": 24,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Kevin's Paleo Chicken Meals",
+      "netCarb": 3,
+      "protein": 24,
+      "section": "Meat",
+      "stores": [
+        "Costco",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "WestEnd Cuisine Chicken Skewers",
+      "netCarb": 3,
+      "protein": 24,
+      "section": "Meat",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "SeaPoint Farms Edamame Spaghetti",
+      "netCarb": 9,
+      "protein": 24,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Kevin's Natural Foods Roasted Garlic Chicken",
+      "netCarb": 3,
+      "protein": 24,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Explore Edamame Spaghetti",
+      "netCarb": 7,
+      "protein": 24,
+      "section": "Breads/Wraps",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Good & Gather Fajita Chicken Strips",
+      "netCarb": 2,
+      "protein": 24,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Kevin's Natural Foods Paleo Chicken Marsala",
+      "netCarb": 4,
+      "protein": 24,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Morningstar Meatless Chicken Strips",
+      "netCarb": 4,
+      "protein": 24,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Quick N' Eat Flame Grilled Angus Beef Burgers",
+      "netCarb": 1,
+      "protein": 24,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Pier 33 Wild Caught Tuna Burgers",
+      "netCarb": 6,
+      "protein": 23,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Realgood Chicken Tenders/Nuggets",
+      "netCarb": 3,
+      "protein": 23,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Wild Caught Frozen Langostino Lobster Tails",
+      "netCarb": 0,
+      "protein": 23,
+      "section": "Meat",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Realgood Chicken Strips",
+      "netCarb": 3,
+      "protein": 23,
+      "section": "Meat",
+      "stores": [
+        "Costco",
+        "ShopRite",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Kevin's Natural Foods Korean BBQ Chicken",
+      "netCarb": 5,
+      "protein": 23,
+      "section": null,
+      "stores": [
+        "ShopRite",
+        "Target"
+      ]
+    },
+    {
+      "name": "Tyson's Boneless Skinless Chicken Breast",
+      "netCarb": 0,
+      "protein": 23,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Market 32 Wild Caught Scallops",
+      "netCarb": 2,
+      "protein": 23,
+      "section": "Seafood",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Salmon Fillets",
+      "netCarb": 0,
+      "protein": 23,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Stew Leonard's Greek Yogurt",
+      "netCarb": 5,
+      "protein": 23,
+      "section": "Deli",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Sea Queen Frozen Shrimp",
+      "netCarb": 0,
+      "protein": 22,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Plainville Organic Turkey Burgers",
+      "netCarb": 0,
+      "protein": 22,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Butterball All-Natural Turkey Burgers",
+      "netCarb": 0,
+      "protein": 22,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Nature's Promise Pre-Cooked Shrimp",
+      "netCarb": 0,
+      "protein": 22,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Turkey Burgers",
+      "netCarb": 0,
+      "protein": 22,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "netCarb": 7,
+      "protein": 22,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Member's Mark Rotisserie Chicken Breast Bites",
+      "netCarb": 2,
+      "protein": 22,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Simply Nature 100% Grass Fed Beef Burger",
+      "netCarb": 0,
+      "protein": 21,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Elevation Protein Puffs",
+      "netCarb": 4,
+      "protein": 21,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Tyson Grilled Chicken Breast Strips",
+      "netCarb": 2,
+      "protein": 21,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Butterball Turkey Burgers",
+      "netCarb": 2,
+      "protein": 21,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Precooked Chicken Skewers",
+      "netCarb": 6,
+      "protein": 21,
+      "section": "Seafood/Fish",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Beyond “Steak” Tips",
+      "netCarb": 5,
+      "protein": 21,
+      "section": "Vegetarian",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Quest Bars",
+      "netCarb": 6,
+      "protein": 21,
+      "section": "Breads/Rice",
+      "stores": [
+        "BJs",
+        "Big Y",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Kirkland Protein Bars",
+      "netCarb": 6,
+      "protein": 21,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Pure Protein Bars",
+      "netCarb": 15,
+      "protein": 21,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Tyson's Fajita Chicken Strips",
+      "netCarb": 1,
+      "protein": 21,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Nature's Promise Naturals Laura's Ground Beef Patty",
+      "netCarb": 0,
+      "protein": 21,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Tyson's Ready Grilled Blackened Chicken Strips",
+      "netCarb": 2,
+      "protein": 21,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "MorningStar Incogmeato Steakhouse Style Patty",
+      "netCarb": 5,
+      "protein": 21,
+      "section": "Vegetarian",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Beyond Meat Steak Tips",
+      "netCarb": 5,
+      "protein": 21,
+      "section": "Vegetarian",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Branzino fillets",
+      "netCarb": 0,
+      "protein": 21,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Quest Protein Bars",
+      "netCarb": 6,
+      "protein": 21,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Beyond Steak Tips",
+      "netCarb": 5,
+      "protein": 21,
+      "section": "Vegetarian",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Bel & Evan's Chicken Burger",
+      "netCarb": 3,
+      "protein": 21,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Good Catch “Fish” Burgers",
+      "netCarb": 7,
+      "protein": 21,
+      "section": "Vegetarian",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Whole Foods Classic Chicken Salad",
+      "netCarb": 3,
+      "protein": 21,
+      "section": "Prepared Foods",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Tyson's Grilled Chicken Strips",
+      "netCarb": 2,
+      "protein": 21,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Bubba's Grass-Fed Burgers",
+      "netCarb": 0,
+      "protein": 21,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Mesquite Grilled Chicken Breast",
+      "netCarb": 0,
+      "protein": 21,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Aldi's Rotisserie Pulled Chicken",
+      "netCarb": 0,
+      "protein": 20,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Aldi's Rotisserie Style Pulled Pork",
+      "netCarb": 2,
+      "protein": 20,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Perdue Chicken Short Cuts",
+      "netCarb": 1,
+      "protein": 20,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Springer Mountain Chicken Burgers",
+      "netCarb": 2,
+      "protein": 20,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Big Y Frozen Beef Burger",
+      "netCarb": 0,
+      "protein": 20,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Tyson's Blackened Unbreaded Chicken Strips",
+      "netCarb": 1,
+      "protein": 20,
+      "section": "Meats",
+      "stores": [
+        "Big Y",
+        "Costco",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Perdue Short Cuts Grilled Chicken Strips",
+      "netCarb": 1,
+      "protein": 20,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Premier Protein Cereal",
+      "netCarb": 12,
+      "protein": 20,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "ShopRite",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Applegate Turkey Burgers",
+      "netCarb": 0,
+      "protein": 20,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Perdue Short Cuts Carved Chicken Breast",
+      "netCarb": 1,
+      "protein": 20,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Kevin's Natural Foods Chipotle Lime Chicken",
+      "netCarb": 3,
+      "protein": 20,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "RealGood Food Co. Orange Chicken Bowl",
+      "netCarb": 7,
+      "protein": 20,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Good & Gather Salmon Burgers",
+      "netCarb": 2,
+      "protein": 20,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "ONE Bars",
+      "netCarb": 13,
+      "protein": 20,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Appleton Farms Fajita Chicken Strips",
+      "netCarb": 3,
+      "protein": 19,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Frozen Chicken Wings",
+      "netCarb": 0,
+      "protein": 19,
+      "section": "Seafood/Fish",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Quest Chips",
+      "netCarb": 4,
+      "protein": 19,
+      "section": "Snacks",
+      "stores": [
+        "BJs",
+        "Big Y",
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Wild Spark Bruschetta Chicken Patty",
+      "netCarb": 1,
+      "protein": 19,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Bowl & Basket Tilapia Fillets",
+      "netCarb": 0,
+      "protein": 19,
+      "section": "Seafood",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Smart One's Egg & Cheese Scramble",
+      "netCarb": 12,
+      "protein": 19,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Chile Lime Chicken Burgers",
+      "netCarb": 1,
+      "protein": 19,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Philly Gourmet Beef Burgers",
+      "netCarb": 0,
+      "protein": 19,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Mighty Spark Bruschetta Chicken Patties",
+      "netCarb": 0,
+      "protein": 19,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Healthy Choice Zero Sesame Chicken Zoodles Frozen Meal",
+      "netCarb": 5,
+      "protein": 19,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "John Soules Fajita Chicken Strips",
+      "netCarb": 3,
+      "protein": 19,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Friendly Farms Greek Yogurt",
+      "netCarb": 9,
+      "protein": 18,
+      "section": "Dairy",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "World Catch Salmon Burgers",
+      "netCarb": 1,
+      "protein": 18,
+      "section": "Seafood/Fish",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Greek Yogurt",
+      "netCarb": 5,
+      "protein": 18,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Kirkland Plain Greek Yogurt",
+      "netCarb": 7,
+      "protein": 18,
+      "section": "Dairy",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Vital Proteins Collagen Peptides",
+      "netCarb": 0,
+      "protein": 18,
+      "section": "Snacks",
+      "stores": [
+        "Costco",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Meal Mart Beef Patties",
+      "netCarb": 0,
+      "protein": 18,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Good Neighbor Bacon Cheddar Shrimp Burger",
+      "netCarb": 8,
+      "protein": 18,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Foster Farms Frozen Grilled Chicken Breast Strips",
+      "netCarb": 2,
+      "protein": 18,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Special K Zero Sugar Cereal",
+      "netCarb": 2,
+      "protein": 18,
+      "section": "Breads/Wraps",
+      "stores": [
+        "ShopRite",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Good & Gather Steakhouse Seasoned Beef Patties",
+      "netCarb": 0,
+      "protein": 18,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Just Grilled Chicken Strips",
+      "netCarb": 3,
+      "protein": 18,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Fage Plain Yogurt",
+      "netCarb": 5,
+      "protein": 18,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Gardein Beefless Ground",
+      "netCarb": 2,
+      "protein": 18,
+      "section": "Vegetarian",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Healthy Choice Zero Sugar Verde Chicken Bowl",
+      "netCarb": 5,
+      "protein": 18,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Gardein Plant Based Ground “Beef”",
+      "netCarb": 2,
+      "protein": 18,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "P3 Protein Portable Protein Snack",
+      "netCarb": 3,
+      "protein": 18,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Fiorucci Prosciutto Wrapped Cheese Sticks",
+      "netCarb": 2,
+      "protein": 18,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Oven Roasted Wings",
+      "netCarb": 1,
+      "protein": 18,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Tilapia Fillets",
+      "netCarb": 0,
+      "protein": 18,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Plain Greek Yogurt",
+      "netCarb": 6,
+      "protein": 18,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Fage Greek Yogurt",
+      "netCarb": 5,
+      "protein": 18,
+      "section": "Deli",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Morningstar Garden Veggie Burgers",
+      "netCarb": 8,
+      "protein": 17,
+      "section": "Vegetarian",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Quorn Meatless Pieces",
+      "netCarb": 5,
+      "protein": 17,
+      "section": "Vegetarian",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Real Good Pizza Co Frozen Pizza",
+      "netCarb": 6,
+      "protein": 17,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Gardein Ultimate Plant-Based Unbreaded Chicken Strips",
+      "netCarb": 3,
+      "protein": 17,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Red's Turkey Sausage Egg'wich",
+      "netCarb": 3,
+      "protein": 17,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Gardein Plant-Based Ground Beef",
+      "netCarb": 3,
+      "protein": 17,
+      "section": "Vegetarian",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Oikos Triple Zero Yogurt",
+      "netCarb": 8,
+      "protein": 17,
+      "section": "Dairy",
+      "stores": [
+        "Sam's Club",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Hormel Slow Simmered Beef Tips",
+      "netCarb": 3,
+      "protein": 17,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Gorton's Grilled Salmon",
+      "netCarb": 4,
+      "protein": 17,
+      "section": "Seafood",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Just Bare Lightly Breaded Chicken Strips",
+      "netCarb": 11,
+      "protein": 17,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Mozzarella Chicken Meatballs",
+      "netCarb": 2,
+      "protein": 17,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Walsea Frozen Scallops",
+      "netCarb": 2,
+      "protein": 17,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Earth Grown Flame Grilled Protein Burger",
+      "netCarb": 1,
+      "protein": 16,
+      "section": "Vegetarian",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Simms Original Beef Jerky",
+      "netCarb": 0,
+      "protein": 16,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Amylu Chicken Burgers",
+      "netCarb": 4,
+      "protein": 16,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Tomato, Basil, & Mozzarella Cheese Sausage",
+      "netCarb": 1,
+      "protein": 16,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Fit Crunch Bars",
+      "netCarb": 13,
+      "protein": 16,
+      "section": "Breads/Rice",
+      "stores": [
+        "BJs",
+        "Big Y",
+        "Costco",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Kirkland Pulled Pork",
+      "netCarb": 0,
+      "protein": 16,
+      "section": "Meat",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Yves Veggie Burgers",
+      "netCarb": 3,
+      "protein": 16,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Friendship Cottage Cheese",
+      "netCarb": 4,
+      "protein": 16,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Stryve Thinly Sliced Steak Strips",
+      "netCarb": 0,
+      "protein": 16,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Good & Gather Andouille Chicken Sausage",
+      "netCarb": 3,
+      "protein": 16,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Eggwich Breadless Breakfast Sandwich",
+      "netCarb": 3,
+      "protein": 16,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Beefless Bulgogi",
+      "netCarb": 10,
+      "protein": 16,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Fage Plain Greek Yogurt",
+      "netCarb": 5,
+      "protein": 16,
+      "section": "Dairy",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Gorton's Lemon Butter Grilled Cod Fillets",
+      "netCarb": 0,
+      "protein": 16,
+      "section": "Seafood",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Bacon Wrapped Scallops",
+      "netCarb": 3,
+      "protein": 16,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Butera's Chicken Meatballs",
+      "netCarb": 5,
+      "protein": 16,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Fremont Salmon Burgers",
+      "netCarb": 5,
+      "protein": 15,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Aidell's Italian Style Sausage",
+      "netCarb": 1,
+      "protein": 15,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Naked Cooked Shrimp",
+      "netCarb": 0,
+      "protein": 15,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Sola Bagels",
+      "netCarb": 5,
+      "protein": 15,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Al Dente Carba-Nada Fettucine",
+      "netCarb": 17,
+      "protein": 15,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Wonderworks Keto Cereal",
+      "netCarb": 12,
+      "protein": 15,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco",
+        "ShopRite",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Darigold Cottage Cheese",
+      "netCarb": 5,
+      "protein": 15,
+      "section": "Dairy",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Perdue Lightly Breaded Chicken Breast Nuggets",
+      "netCarb": 6,
+      "protein": 15,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Bowl & Basket Pre-Cooked Shrimp",
+      "netCarb": 0,
+      "protein": 15,
+      "section": "Seafood",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Three Bridges Egg White Bites",
+      "netCarb": 6,
+      "protein": 15,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Good Culture Cottage Cheese",
+      "netCarb": 4,
+      "protein": 15,
+      "section": "Dairy",
+      "stores": [
+        "Stew Leonards",
+        "Target",
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Mahi Mahi Burger",
+      "netCarb": 0,
+      "protein": 15,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Premium Salmon Burger",
+      "netCarb": 3,
+      "protein": 15,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Fulfill Protein Bars",
+      "netCarb": 13,
+      "protein": 15,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "The Organic Meat Company 100% Grass Fed Beef Burgers",
+      "netCarb": 0,
+      "protein": 15,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Market 32 All-Natural Cooked Shrimp",
+      "netCarb": 0,
+      "protein": 15,
+      "section": "Seafood",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Quorn Meatless Turkey-Roast",
+      "netCarb": 0,
+      "protein": 15,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Bremer's Frozen Meatballs",
+      "netCarb": 6,
+      "protein": 14,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Cattleman's Ranch Homestyle Meatloaf",
+      "netCarb": 4,
+      "protein": 14,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Earth Grown Meatless Meatballs",
+      "netCarb": 7,
+      "protein": 14,
+      "section": "Vegetarian",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Swedish Meatballs",
+      "netCarb": 5,
+      "protein": 14,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Precooked Shrimp",
+      "netCarb": 0,
+      "protein": 14,
+      "section": "Seafood/Fish",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Wild Caught Terriyaki Salmon Burgers",
+      "netCarb": 5,
+      "protein": 14,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "All American Boca Burger",
+      "netCarb": 4,
+      "protein": 14,
+      "section": "Vegetarian",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Tillamook Zero Sugar Beef Jerky",
+      "netCarb": 0,
+      "protein": 14,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Cooked Perfect Turkey Meatballs",
+      "netCarb": 4,
+      "protein": 14,
+      "section": null,
+      "stores": [
+        "Price Chopper",
+        "ShopRite",
+        "Target"
+      ]
+    },
+    {
+      "name": "Gardein Plant Based Beef Tips",
+      "netCarb": 7,
+      "protein": 14,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "SeaPak Alaskan Salmon Burgers",
+      "netCarb": 0,
+      "protein": 14,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Boca Burgers",
+      "netCarb": 3,
+      "protein": 14,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Tofurky Deli Slices",
+      "netCarb": 4,
+      "protein": 14,
+      "section": "Vegetarian",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "To'Furkey Deli Slices",
+      "netCarb": 4,
+      "protein": 14,
+      "section": "Vegetarian",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Whole Foods Organic Spicy Italian Chicken Sausage",
+      "netCarb": 1,
+      "protein": 14,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Tofurky Plant Based Deli Slices",
+      "netCarb": 4,
+      "protein": 14,
+      "section": "Vegetarian",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Trident Alaskan Salmon Burgers",
+      "netCarb": 1,
+      "protein": 14,
+      "section": "Seafood",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Friendly Farms Cottage Cheese",
+      "netCarb": 4,
+      "protein": 13,
+      "section": "Dairy",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Savoritz Parmesan Crisps",
+      "netCarb": 2,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Turkey Meatballs",
+      "netCarb": 3,
+      "protein": 13,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Pound of Ground Burger Thins",
+      "netCarb": 0,
+      "protein": 13,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Al Fresco Chicken Sausage",
+      "netCarb": 2,
+      "protein": 13,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Lightlife Deli Slices",
+      "netCarb": 2,
+      "protein": 13,
+      "section": "Vegetarian",
+      "stores": [
+        "Big Y",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Fairlife Milk",
+      "netCarb": 6,
+      "protein": 13,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Banza Protein Pasta",
+      "netCarb": 24,
+      "protein": 13,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Whisps",
+      "netCarb": 1,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Al Fresco Chicken Sausages",
+      "netCarb": 2,
+      "protein": 13,
+      "section": null,
+      "stores": [
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Boca All American Veggie Burger",
+      "netCarb": 2,
+      "protein": 13,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Fairlife Ultra-Filtered Milk",
+      "netCarb": 6,
+      "protein": 13,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Jack Links Zero Sugar Beef Jerky",
+      "netCarb": 0,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Atkin's Protein Chips",
+      "netCarb": 4,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Wilde Protein Chips",
+      "netCarb": 7,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "Target",
+        "Walmart",
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Shrimp Seafood Burger",
+      "netCarb": 0,
+      "protein": 13,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Great Value Light Greek Yogurt",
+      "netCarb": 8,
+      "protein": 13,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Great Value Zero Sugar Beef Jerky",
+      "netCarb": 0,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Atkins Protein Chips",
+      "netCarb": 4,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Al Fresco Chicken Meatballs",
+      "netCarb": 4,
+      "protein": 13,
+      "section": null,
+      "stores": [
+        "Price Chopper",
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Pics Cottage Cheese",
+      "netCarb": 5,
+      "protein": 13,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Culinary Tours Dry Roasted Edamame Pouches",
+      "netCarb": 2,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Jimmy Dean Turkey Sausage",
+      "netCarb": 2,
+      "protein": 13,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Pulled Pork",
+      "netCarb": 0,
+      "protein": 13,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Pre-Cooked Shrimp",
+      "netCarb": 0,
+      "protein": 13,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Breakstone's Cottage Cheese",
+      "netCarb": 5,
+      "protein": 13,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Taco Bell Cheddar Crisps",
+      "netCarb": 3,
+      "protein": 13,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Perdue Air-Fryer Ready Wings",
+      "netCarb": 4,
+      "protein": 13,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Magic Spook Cereal",
+      "netCarb": 8,
+      "protein": 13,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Two Good Greek Yogurt",
+      "netCarb": 3,
+      "protein": 12,
+      "section": "Dairy",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Lightlife Smart Dogs",
+      "netCarb": 3,
+      "protein": 12,
+      "section": "Vegetarian",
+      "stores": [
+        "Big Y",
+        "Costco",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Arnold Keto Sandwich Thins",
+      "netCarb": 4,
+      "protein": 12,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Formaggio Artisan Prosciutto/Cheese Wraps",
+      "netCarb": 0,
+      "protein": 12,
+      "section": "Snacks",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Foster Farms Hot & Spicy Wings",
+      "netCarb": 4,
+      "protein": 12,
+      "section": "Meat",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Archer 0 Sugar Beef Jerky",
+      "netCarb": 2,
+      "protein": 12,
+      "section": "Snacks",
+      "stores": [
+        "Stop n Shop",
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Good & Gather Pre-Cooked Shrimp",
+      "netCarb": 0,
+      "protein": 12,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Archer Zero Sugar Grass-Fed Beef Jerky",
+      "netCarb": 2,
+      "protein": 12,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Spicy Uncured Charcuterie Selection",
+      "netCarb": 1,
+      "protein": 12,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Cheese Spinach & Kale Egg Bites",
+      "netCarb": 7,
+      "protein": 12,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Epic Bison Bars",
+      "netCarb": 1,
+      "protein": 12,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Oven Baked Cheese Bites",
+      "netCarb": 1,
+      "protein": 12,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Great Value Precooked Shrimp",
+      "netCarb": 2,
+      "protein": 12,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Great Value Cottage Cheese",
+      "netCarb": 4,
+      "protein": 12,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Magic Spoon Cereal",
+      "netCarb": 13,
+      "protein": 12,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Sola Keto Hamburger Buns",
+      "netCarb": 6,
+      "protein": 12,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Gusto Genoa Salami Packs",
+      "netCarb": 0,
+      "protein": 12,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Market 32 Spinach Garlic Chicken Sausage",
+      "netCarb": 0,
+      "protein": 12,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Pier 33 Gourmet Mussel Meat",
+      "netCarb": 4,
+      "protein": 12,
+      "section": "Seafood",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Oven Roasted Turkey Slices",
+      "netCarb": 1,
+      "protein": 12,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "L'Oven Fresh Keto Bagel",
+      "netCarb": 3,
+      "protein": 11,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Krakus Slices Polish Ham",
+      "netCarb": 1,
+      "protein": 11,
+      "section": "Deli Meat",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Breakstone Cottage Cheese",
+      "netCarb": 6,
+      "protein": 11,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Epic Baked Pork Rinds",
+      "netCarb": 0,
+      "protein": 11,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "MorningStar Garden Veggie Burgers or Griller Crumbles",
+      "netCarb": 5,
+      "protein": 11,
+      "section": "Vegetarian",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Catalina Crunch Cereal",
+      "netCarb": 5,
+      "protein": 11,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart",
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "SeaPoint Farms Dry Roasted Edamame Pouches",
+      "netCarb": 2,
+      "protein": 11,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "MorningStar Garden Veggie Burger",
+      "netCarb": 5,
+      "protein": 11,
+      "section": null,
+      "stores": [
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Applegate Turkey Sausage",
+      "netCarb": 1,
+      "protein": 11,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Good & Gather Protein Pack Quick Bites",
+      "netCarb": 2,
+      "protein": 11,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Everything But The Bagel Seasoned Smoked Salmon",
+      "netCarb": 0,
+      "protein": 11,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Chickenless Crispy Tenders",
+      "netCarb": 11,
+      "protein": 11,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Natural Beef Jerky",
+      "netCarb": 5,
+      "protein": 11,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Applegate Turkey Sausages",
+      "netCarb": 1,
+      "protein": 11,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "P3 Turkey/Cheese/Almond Packs",
+      "netCarb": 3,
+      "protein": 11,
+      "section": "Snacks",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Applegate Turkey Breast Slices",
+      "netCarb": 1,
+      "protein": 11,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Epic Oven-Baked Pork Rinds",
+      "netCarb": 0,
+      "protein": 11,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Moon Cheese",
+      "netCarb": 1,
+      "protein": 11,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Epic BBQ Chicken Bar",
+      "netCarb": 1,
+      "protein": 11,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Castle Wood Oven Roasted Chicken Breast Slices",
+      "netCarb": 1,
+      "protein": 10,
+      "section": "Deli Meat",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Castle Wood Smoked Uncured Ham",
+      "netCarb": 2,
+      "protein": 10,
+      "section": "Deli Meat",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Kirkwood Buffalo Wings",
+      "netCarb": 4,
+      "protein": 10,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Earth Grown Chickenless Patties",
+      "netCarb": 8,
+      "protein": 10,
+      "section": "Vegetarian",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Elevation Snack Advance Bar",
+      "netCarb": 2,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Park Street Deli Protein Snack Packs-Cheese/Turkey Bites",
+      "netCarb": 1,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Butterball All Natural Sausage Links",
+      "netCarb": 0,
+      "protein": 10,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Simply Protein Chocolate Coconut Bites",
+      "netCarb": 5,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Parm Crisps Snack Mix",
+      "netCarb": 3,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Three Little Pigs Sous Vide Egg Bites",
+      "netCarb": 1,
+      "protein": 10,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Chomps Beef/Turkey Sticks",
+      "netCarb": 0,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Good & Gather Uncured Diced Ham",
+      "netCarb": 1,
+      "protein": 10,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Boar's Head Turkey Pepperoni",
+      "netCarb": 1,
+      "protein": 10,
+      "section": "Deli",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Frozen Palak Paneer",
+      "netCarb": 5,
+      "protein": 10,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Jones Canadian Bacon",
+      "netCarb": 1,
+      "protein": 10,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Great Value Deli Sliced Roast Beef",
+      "netCarb": 0,
+      "protein": 10,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Great Value Black Forest Ham",
+      "netCarb": 1,
+      "protein": 10,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Quest Cheese Crackers",
+      "netCarb": 5,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Fiber One Protein 1 Mini Bar",
+      "netCarb": 6,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "PB Fit Protein Peanut Butter",
+      "netCarb": 5,
+      "protein": 10,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Jone's Canadian Bacon",
+      "netCarb": 1,
+      "protein": 10,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Morningstar Veggie Burger",
+      "netCarb": 5,
+      "protein": 10,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Fully Cooked Canadian Bacon",
+      "netCarb": 2,
+      "protein": 10,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Stew Leonard's Naked Chicken Chili",
+      "netCarb": 10,
+      "protein": 10,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Lunch Mate Deli Selected Oven Roasted Turkey Slices",
+      "netCarb": 2,
+      "protein": 9,
+      "section": "Deli Meat",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Hommel Turkey Pepperoni",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Deli Meat",
+      "stores": [
+        "Aldis",
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Morningstar Veggie Sausages",
+      "netCarb": 3,
+      "protein": 9,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "BJs",
+        "Price Chopper",
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Hormel Turkey Pepperoni",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs",
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Nasoya Tofu",
+      "netCarb": 2,
+      "protein": 9,
+      "section": "Vegetarian",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Applegate Breakfast Sausage",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "MorningStar Veggie Sausage",
+      "netCarb": 3,
+      "protein": 9,
+      "section": "Vegetarian",
+      "stores": [
+        "Big Y",
+        "Stop n Shop",
+        "Target"
+      ]
+    },
+    {
+      "name": "Arnold Keto Hamburger/Hotdog Buns",
+      "netCarb": 6,
+      "protein": 9,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "MorningStar Sausage Patties",
+      "netCarb": 3,
+      "protein": 9,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Hilo Life Keto Tortilla Chips",
+      "netCarb": 3,
+      "protein": 9,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Morningstar Veggie Griller Crumbles",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Chomps Beef Sticks",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Snacks",
+      "stores": [
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Good & Gather Pork Rinds",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Beefless Ground Beef",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Unsweetened Soy Beverage",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Cauliflower Sandwich Thins",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Chomps Zero Sugar Beef Sticks",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Great Value Deli Sliced Turkey Breast",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Applegate Organic Uncured Beef Hot Dog",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Natural Power-Fu Vegetarian Chicken Salad",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Vegetarian",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Outer Aisle Cauliflower Sandwich Thins",
+      "netCarb": 2,
+      "protein": 9,
+      "section": "Breads/Cereals/Pasta",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Perfectly Crisp Crackers",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Quorn “Chicken” Fillets",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Vegetarian Protein",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Country Archer Zero Sugar Beef Stick",
+      "netCarb": 1,
+      "protein": 9,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Pacific Bone Broth",
+      "netCarb": 0,
+      "protein": 9,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "L'Oven Fresh Keto Friendly Hamburger Buns",
+      "netCarb": 2,
+      "protein": 8,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Appleton Farms Bite-Sized Dry Salami",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Deli Meat",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Parkview Turkey Polska Kielbasa",
+      "netCarb": 4,
+      "protein": 8,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Clancy's Pork Rinds",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Peanut Delight Natural Peanut Butter",
+      "netCarb": 4,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Hillshire Farms Turkey Polska Kielbasa",
+      "netCarb": 3,
+      "protein": 8,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Chef's Cut Beef Sticks",
+      "netCarb": 2,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Teddie's All-Natural Peanut Butter",
+      "netCarb": 4,
+      "protein": 8,
+      "section": "Condiments/Sauces",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "North Country Smokehouse Polish Kielbasa",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "UTZ Pork Rinds",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Teddy's All-Natural Peanut Butter",
+      "netCarb": 4,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Green Ridge Beef Sticks",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Epic Pork Rinds",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "PB Fit Peanut Butter Powder",
+      "netCarb": 2,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Crazy Richard's Natural Peanut Butter",
+      "netCarb": 43,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Good Karma Flax Milk",
+      "netCarb": 1,
+      "protein": 8,
+      "section": null,
+      "stores": [
+        "Stop n Shop",
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Hillshire Farm Turkey Kielbasa",
+      "netCarb": 2,
+      "protein": 8,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Soy Chorizo",
+      "netCarb": 3,
+      "protein": 8,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Egg Wraps",
+      "netCarb": 1,
+      "protein": 8,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Applegate Pork & Beef Uncured Pepperoni",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Ripple Unsweetened Pea Milk",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Dairy",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Original Salami Minis",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Banquet Brown n' Serve Turkey Sausage",
+      "netCarb": 2,
+      "protein": 8,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Teddie's Natural Peanut Butter",
+      "netCarb": 4,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Swaggerty's Farm Premium Sausage",
+      "netCarb": 0,
+      "protein": 8,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Parm Crisp Snack Mix",
+      "netCarb": 5,
+      "protein": 8,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Stew's Chicken Kale Soup",
+      "netCarb": 11,
+      "protein": 8,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Simply Nature Soy Milk",
+      "netCarb": 7,
+      "protein": 7,
+      "section": "Dairy",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Happy Farms String Cheese",
+      "netCarb": 1,
+      "protein": 7,
+      "section": "Dairy",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Appleton Farms Prosciutto",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Deli Meat",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Savortitz Keto Crackers",
+      "netCarb": 4,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Simply Nature Creamy Almond Butter",
+      "netCarb": 4,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Applegate Organic Beef Hotdogs",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Frozen Meat",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Cheese Sampler",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Nature's Garden Probiotic Keto Snack Mix",
+      "netCarb": 2,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Skippy's Natural Peanut Butter",
+      "netCarb": 4,
+      "protein": 7,
+      "section": "Condiments/Sauces",
+      "stores": [
+        "BJs",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Applegate Uncured Beef Hotdog",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Applegate Sunday Bacon",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Meats",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Nature's Garden Keto Snack Mix",
+      "netCarb": 2,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Applegate Hot Dogs",
+      "netCarb": 0,
+      "protein": 7,
+      "section": null,
+      "stores": [
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Pork Rinds",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper",
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Applegate Uncured Hot Dogs",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Applegate Uncured Salami",
+      "netCarb": 1,
+      "protein": 7,
+      "section": "Deli",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Good & Gather Lt Cheese Sticks",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Meatless Breakfast Patties",
+      "netCarb": 1,
+      "protein": 7,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Organic String Cheese",
+      "netCarb": 1,
+      "protein": 7,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Feta Cheese Crumbles",
+      "netCarb": 2,
+      "protein": 7,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Organic Peanut Butter Powder",
+      "netCarb": 3,
+      "protein": 7,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Oscar Meyer Precooked Bacon",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Oscar Meyer Hard Salami",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Keto Culture Hot Dog Buns",
+      "netCarb": 1,
+      "protein": 7,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Smart Dogs Vegan Hot Dogs",
+      "netCarb": 2,
+      "protein": 7,
+      "section": "Vegetarian",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Cali'Flour Pizza Crust",
+      "netCarb": 2,
+      "protein": 7,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Formaggio Artisan Cheese/Prosciutto Wraps",
+      "netCarb": 0,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Natural Almond Butter",
+      "netCarb": 3,
+      "protein": 7,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Earth Grown Plant-Based Taco Filling",
+      "netCarb": 4,
+      "protein": 6,
+      "section": "Vegetarian",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Veggies Made Great Frozen Egg White Bites",
+      "netCarb": 5,
+      "protein": 6,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Applegate Uncured Sunday Bacon",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Precooked Hardboiled Eggs",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Joseph's Pita Bread",
+      "netCarb": 7,
+      "protein": 6,
+      "section": "Breads/Rice",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Formaggio Artisan Prosciutto Cheese Sticks",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Vermont Pork/Beef Snack Sticks",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Frigo Light String Cheese",
+      "netCarb": 1,
+      "protein": 6,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Frigo String Cheese",
+      "netCarb": 1,
+      "protein": 6,
+      "section": "Dairy",
+      "stores": [
+        "Costco",
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Flackers",
+      "netCarb": 1,
+      "protein": 6,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "PB2 Peanut Butter Powder",
+      "netCarb": 4,
+      "protein": 6,
+      "section": "Snacks",
+      "stores": [
+        "Costco",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Applegate Turkey Bacon",
+      "netCarb": 0,
+      "protein": 6,
+      "section": null,
+      "stores": [
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Applegate Uncured Sunday Pork Bacon",
+      "netCarb": 0,
+      "protein": 6,
+      "section": null,
+      "stores": [
+        "Price Chopper",
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "ShopRite Beef Sandwich Steaks",
+      "netCarb": 0,
+      "protein": 6,
+      "section": null,
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Frigo Cheese heads String Cheese",
+      "netCarb": 1,
+      "protein": 6,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Joseph's Flax & Oat Bran Pita",
+      "netCarb": 7,
+      "protein": 6,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Price Chopper",
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Nature's Own KETO Bread",
+      "netCarb": 1,
+      "protein": 6,
+      "section": null,
+      "stores": [
+        "Sam's Club",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Columbus Hard Salami",
+      "netCarb": 2,
+      "protein": 6,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "The Bridge Tofu Salad",
+      "netCarb": 1,
+      "protein": 6,
+      "section": "Vegetarian",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Colombus Salame",
+      "netCarb": 2,
+      "protein": 6,
+      "section": null,
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Sargento Light String Cheese",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Hard Salami",
+      "netCarb": 1,
+      "protein": 6,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Great Day Farms Pre-Cooked Hard Boiled Eggs",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Old Wisconsin Turkey Stick",
+      "netCarb": 1,
+      "protein": 6,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "John F Martin's Turkey Bacon",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Stew's String Cheese",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Deli",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Stew Leonard's Cracker Cuts",
+      "netCarb": 0,
+      "protein": 6,
+      "section": "Deli",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "L'Oven Fresh Keto 0 Net Carb Bread",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Appleton Precooked Bacon",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Nathan's Skinless Beef Franks",
+      "netCarb": 1,
+      "protein": 5,
+      "section": "Prepared/Pre-Cooked Meats",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Pitted Olives/Greek Feta Salad",
+      "netCarb": 1,
+      "protein": 5,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Park Street Antipasto Salad",
+      "netCarb": 2,
+      "protein": 5,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Egg Life Egg White Wraps",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Mission Carb Balance Tortillas",
+      "netCarb": 3,
+      "protein": 5,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "Price Chopper",
+        "Sam's Club",
+        "ShopRite",
+        "Stew Leonards",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Mission Carb Balance Tortilla",
+      "netCarb": 3,
+      "protein": 5,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "NuTrail Low Carb Granola",
+      "netCarb": 8,
+      "protein": 5,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Babybel Snack Cheeses",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Dairy",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Egglife Wraps",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Sam's Club",
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Babybel Lt Cheese Wheels",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Price Chopper",
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Babybel Cheese",
+      "netCarb": 0,
+      "protein": 5,
+      "section": null,
+      "stores": [
+        "Stew Leonards",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Applegate Uncured Bacon",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Babybel Cheeses",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Chevre Creamy Fresh Goat Cheese",
+      "netCarb": 1,
+      "protein": 5,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Applegate Chicken & Maple Breakfast Sausage",
+      "netCarb": 1,
+      "protein": 5,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Applewood Smoked Uncured Bacon",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Meats",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Flackers Crackers",
+      "netCarb": 1,
+      "protein": 5,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Cabot Extra Sharp Cheese Snacks",
+      "netCarb": 1,
+      "protein": 5,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Hormel Black Label Pre-Cooked Bacon",
+      "netCarb": 1,
+      "protein": 5,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Extra Lean Premium Ham Slices",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Pepperoni",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Frozen/Prepared Chicken/Turkey",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Havarti & Gouda Cheese Snack Packs",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "La Banderita Carb Counter Wraps",
+      "netCarb": 4,
+      "protein": 5,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Ole Xtreme Wellness Wraps",
+      "netCarb": 4,
+      "protein": 5,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Hormel Black Label Fully Cooked Bacon",
+      "netCarb": 0,
+      "protein": 5,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Crepini Cauliflower Wraps",
+      "netCarb": 0,
+      "protein": 4,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis",
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Kevin's Natural Foods Cauli & Cheese",
+      "netCarb": 4,
+      "protein": 4,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Pre-Cooked Bacon",
+      "netCarb": 0,
+      "protein": 4,
+      "section": "Frozen Breakfast",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Arnold Keto Bread",
+      "netCarb": 3,
+      "protein": 4,
+      "section": "Breads/Rice",
+      "stores": [
+        "BJs",
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Babybel Cheese Wheels",
+      "netCarb": 0,
+      "protein": 4,
+      "section": "Snacks",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Blue Diamond 100 Calorie Nut Pouches",
+      "netCarb": 1,
+      "protein": 4,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Autumn's Gold Grain-Free Granola",
+      "netCarb": 7,
+      "protein": 4,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Crepini Egg White Thins",
+      "netCarb": 4,
+      "protein": 4,
+      "section": "Dairy",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "NuTrail Keto Granola",
+      "netCarb": 6,
+      "protein": 4,
+      "section": "Breads/Wraps",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Sigdal Bakeri Gluten Free Everything Norwegian Crispbread Crackers",
+      "netCarb": 5,
+      "protein": 4,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "No Sugar Dry Rubbed Uncured Bacon",
+      "netCarb": 0,
+      "protein": 4,
+      "section": null,
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Mini Brie Bites",
+      "netCarb": 1,
+      "protein": 4,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Silk Next Milk Oat Milk",
+      "netCarb": 4,
+      "protein": 4,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Keto Culture Bread",
+      "netCarb": 0,
+      "protein": 4,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Paleonola Grain Free Original Granola",
+      "netCarb": 5,
+      "protein": 4,
+      "section": "Breads/Cereals/Pasta",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "L'Oven Fresh Keto Friendly Low Carb Wrap",
+      "netCarb": 3,
+      "protein": 3,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Artisan Bakers Multiseed Keto Bread",
+      "netCarb": 1,
+      "protein": 3,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Emerald 100 Calorie Nut Pouches",
+      "netCarb": 1,
+      "protein": 3,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Esti Spinach Artichoke Dip",
+      "netCarb": 2,
+      "protein": 3,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Trader Joe's Carb Savy Bread",
+      "netCarb": 2,
+      "protein": 3,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Buffalo Style Chicken Dip",
+      "netCarb": 2,
+      "protein": 3,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "La Terra Fina Spinach Parmesan Dip",
+      "netCarb": 3,
+      "protein": 3,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Season's Choice Cauliflower Rice",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Happy Farms Creamy Swiss Cheese Wedges",
+      "netCarb": 1,
+      "protein": 2,
+      "section": "Dairy",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Simply Nature Tomato & Basil Pasta Sauce",
+      "netCarb": 7,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Simply Truth Buffalo Cauliflower Dip",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Taste of the South Fried Pickle Ranch Dip",
+      "netCarb": 3,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Cauliflower Rice",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Breads/Rice",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Wellsley Farms Tzatziki",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Condiments/Sauces",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Classico Tomato & Basil Pasta Sauce",
+      "netCarb": 5,
+      "protein": 2,
+      "section": "Condiments/Sauces",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Sara Lee Delightful 45 Bread",
+      "netCarb": 6,
+      "protein": 2,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Mission Zero Net Carbs Street Tacos",
+      "netCarb": 0,
+      "protein": 2,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "Stew Leonards",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Green Giant Cauliflower Rice",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Wasa Light Rye Crackers",
+      "netCarb": 7,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Price Chopper",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Cedar's Spinach Artichoke Tzatziki",
+      "netCarb": 3,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "La Ferra Tina Everything Bagel Dip",
+      "netCarb": 3,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Frozen Riced Cauliflower",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Old Tyme Schmidt 647 Bread",
+      "netCarb": 6,
+      "protein": 2,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco",
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Laughing Cow Cheese Wedges",
+      "netCarb": 1,
+      "protein": 2,
+      "section": "Dairy",
+      "stores": [
+        "Costco",
+        "Price Chopper",
+        "Sam's Club",
+        "ShopRite",
+        "Stew Leonards",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Rao's Homemade Marinara",
+      "netCarb": 5,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Sarah Lee Delightful 45 Bread",
+      "netCarb": 6,
+      "protein": 2,
+      "section": "Breads/Wraps",
+      "stores": [
+        "ShopRite",
+        "Target"
+      ]
+    },
+    {
+      "name": "Bowl & Basket Frozen Cauliflower Rice",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Breads/Wraps",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Esti Everything Bagel Dip",
+      "netCarb": 1,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Cedar's Tzatziki Dip",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "La Banderita Carb Counter Tortilla",
+      "netCarb": 3,
+      "protein": 2,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Classico Tomato Basil Pasta Sauce",
+      "netCarb": 6,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Riced Cauliflower Stir Fry",
+      "netCarb": 5,
+      "protein": 2,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Cauliflower Tabouleh",
+      "netCarb": 4,
+      "protein": 2,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Butterball Low Sodium Turkey Bacon",
+      "netCarb": 0,
+      "protein": 2,
+      "section": "Meats/Seafood",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Morningstar Veggie Bacon Strips",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Vegetarian",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Cucina Antica Truffle Alfredo Sauce",
+      "netCarb": 4,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Cloudies Cloud Bread",
+      "netCarb": 0,
+      "protein": 2,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Green Giant Cheesy Riced Cauliflower & Broccoli",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Green Giant Cauliflower Risotto Medley",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Cedar's Tzatziki or Hummus Dip",
+      "netCarb": 3,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Lidia's Marinara Sauce",
+      "netCarb": 4,
+      "protein": 2,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Cedar's Feta Dip",
+      "netCarb": 2,
+      "protein": 2,
+      "section": "Deli",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Friendly Farms Unsweetened Almond Milk",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Praino Creamy Alfredo Sauce",
+      "netCarb": 3,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Spinach Artichoke Tzatziki Dip",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Park Street Deli Guacamole Single Cups",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Creamy Dill Tzatziki Dip",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Unsweetened Almond Milk",
+      "netCarb": 0,
+      "protein": 1,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "BJs",
+        "Price Chopper",
+        "Sam's Club",
+        "ShopRite",
+        "Stop n Shop",
+        "Target",
+        "Trader Joes",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Guacamole Now",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Condiments/Sauces",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Hunt's Tomato Sauce",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Condiments/Sauces",
+      "stores": [
+        "BJs"
+      ]
+    },
+    {
+      "name": "Silk Unsweetened Almond Milk",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Yo Mama's Tomato Sauce",
+      "netCarb": 4,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Classico Creamy Alfredo Sauce",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Healthy Noodle",
+      "netCarb": 0,
+      "protein": 1,
+      "section": "Vegetarian",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Kirkland Unsweetened Almond Milk",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Kirkland Organic Roasted Seaweed Snacks",
+      "netCarb": 0,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Wholly Guacamole Minis",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "Planet Oat Unsweetened Oat Milk",
+      "netCarb": 7,
+      "protein": 1,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "ShopRite",
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Kitu Super Cream in Toasted Hazelnut",
+      "netCarb": 0,
+      "protein": 1,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Palmini Hearts of Palm Angel Hair",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Breads/Wraps",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Annie Chun's Roasted Seaweed Snacks",
+      "netCarb": 0,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper",
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Bowl & Basket No Salt Added Tomato Sauce",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Paesana Tomato Sauce",
+      "netCarb": 5,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Cucina Antica No Sugar Added Pasta Sauce",
+      "netCarb": 3,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Good & Gather Whipped Cream Cheese",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Good & Gather Cauliflower Rice",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Sweet Baby Ray's No Sugar Added BBQ Sauce",
+      "netCarb": 3,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Zucchini Spirals",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Roasted Seaweed snacks",
+      "netCarb": 0,
+      "protein": 1,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Tzatziki Dip",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Spinach & Kale Dip",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Silk Cashew Milk",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Great Value Whipped Plain Cream Cheese Spread",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Great Value Cauliflower Rice",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Palmini Hearts of Palm Pasta / Rice",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Breads/Cereals/Pasta",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Palmini Lasagna Sheets",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Breads/Cereals/Pasta",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Blue Diamond Unsweetened Almond Milk",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Dairy",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Yo Mama's Basil Tomato Sauce",
+      "netCarb": 4,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Acid League Miso Cesar Dressing",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Yosi Tzatziki Sauce",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Kitehill Dairy-Free Tzatziki",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Kitehill Dairy-Free French Onion Dip",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Silk Unsweetened Cashew Milk",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Kitu Super Creamer",
+      "netCarb": 0,
+      "protein": 1,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Classico Alfredo Sauce",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Member's Mark Guacamole Mini's",
+      "netCarb": 5,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Member's Mark Cucumber Garlic Tzatziki Dip",
+      "netCarb": 2,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Yo Mama's Pasta Sauce",
+      "netCarb": 4,
+      "protein": 1,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Stew Leonard's Whipped Cream Cheese",
+      "netCarb": 1,
+      "protein": 1,
+      "section": "Deli",
+      "stores": [
+        "Stew Leonards"
+      ]
+    },
+    {
+      "name": "Palmini Rice",
+      "netCarb": 2,
+      "protein": 0,
+      "section": "Breads/Pasta/Rices",
+      "stores": [
+        "Aldis",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Oh Snap! Dill Pickle Bites",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Tuscan Garden Zesty Italian Dressing",
+      "netCarb": 3,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Aldis"
+      ]
+    },
+    {
+      "name": "Nut Pods Unsweetened Creamer",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Dairy",
+      "stores": [
+        "Big Y",
+        "Target",
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "It's Skinny Rice",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Dairy",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "Skinny Girl Fruit Preserves",
+      "netCarb": 1,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Big Y"
+      ]
+    },
+    {
+      "name": "G Hughe's SF Sauces/Condiments",
+      "netCarb": 2,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Bolthouse Farms Salad Dressings",
+      "netCarb": 3,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop",
+        "Target",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Skinny Girl Salad Dressings",
+      "netCarb": 2,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Big Y",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Frutto D'Italia Olive Pouches",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Costco"
+      ]
+    },
+    {
+      "name": "NutPods Unsweetened Creamer",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Dairy/Eggs",
+      "stores": [
+        "ShopRite"
+      ]
+    },
+    {
+      "name": "Polaner Fiber Strawberry Jelly",
+      "netCarb": 2,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper",
+        "ShopRite",
+        "Stop n Shop",
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Nut Pods Unsweetened Coffee Creamer",
+      "netCarb": 0,
+      "protein": 0,
+      "section": null,
+      "stores": [
+        "Stop n Shop"
+      ]
+    },
+    {
+      "name": "Smucker's Sugar Free Jelly",
+      "netCarb": 5,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Target"
+      ]
+    },
+    {
+      "name": "Canned Jackfruit",
+      "netCarb": 3,
+      "protein": 0,
+      "section": "Vegetarian",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Coconut Creamer",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Jicama Wraps",
+      "netCarb": 1,
+      "protein": 0,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Green Dragon Hot Sauce",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Green Goddess Dressing",
+      "netCarb": 1,
+      "protein": 0,
+      "section": "Dairy/Plant Milks",
+      "stores": [
+        "Trader Joes"
+      ]
+    },
+    {
+      "name": "Jordan's Skinny Syrups",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Dairy",
+      "stores": [
+        "Walmart"
+      ]
+    },
+    {
+      "name": "Miracle Rice",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Breads/Cereals/Pasta",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Miracle Noodles",
+      "netCarb": 1,
+      "protein": 0,
+      "section": "Breads/Cereals/Pasta",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Califia Farms Unsweetened Creamer",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Dairy",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "Gimme Seaweed Snacks",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "name": "It's Skinny Pasta",
+      "netCarb": 0,
+      "protein": 0,
+      "section": "Breads/Wraps",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Heinz No Sugar Added Ketchup",
+      "netCarb": 1,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Price Chopper"
+      ]
+    },
+    {
+      "name": "Kinder's Buttery Buffalo Wing Sauce",
+      "netCarb": 1,
+      "protein": 0,
+      "section": "Snacks",
+      "stores": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "name": "Natural Heaven's Hearts of Palm Pasta",
+      "netCarb": 2,
+      "protein": 0,
+      "section": "Prepared Food's Section- Veggies",
+      "stores": [
+        "Stew Leonards"
+      ]
+    }
+  ],
+  "items": [
+    "Wellsley Farms Tilapia Loins",
+    "Butterball's Turkey Burgers",
+    "Elevation High Performance Protein Shakes",
+    "Premier Protein Shakes",
+    "Fairlife Protein Shakes",
+    "Quest Protein Shake",
+    "Park Street Deli Artichoke Stuffed Chicken",
+    "Wellsley Farms Tuna Steaks",
+    "Bowl & Basket Salmon Fillets",
+    "C. Wirthy & Co. Frozen Blackened Salmon Fillets",
+    "Member's Mark Ahi Tuna",
+    "Liviva High Protein Fettucine",
+    "Chef's Cut Zero Sugar Biltong Jerky",
+    "Good & Gather Turkey Burgers",
+    "Fairlife Core Power Shakes",
+    "IsoPure Protein Powder",
+    "Good & Gather Shredded Chicken",
+    "Dymatize ISO 100 Protein Powder",
+    "The Better Bagel",
+    "Simply Nature Edamame Spaghetti",
+    "Simply Nature Soybean Spaghetti",
+    "Park Street Deli Broccoli Stuffed Chicken",
+    "Wellsley Farms Wild Caught Sockeye Salmon Fillets",
+    "Quest Protein Powder",
+    "Kevin's Paleo Chicken Meals",
+    "WestEnd Cuisine Chicken Skewers",
+    "SeaPoint Farms Edamame Spaghetti",
+    "Kevin's Natural Foods Roasted Garlic Chicken",
+    "Explore Edamame Spaghetti",
+    "Good & Gather Fajita Chicken Strips",
+    "Kevin's Natural Foods Paleo Chicken Marsala",
+    "Morningstar Meatless Chicken Strips",
+    "Quick N' Eat Flame Grilled Angus Beef Burgers",
+    "Pier 33 Wild Caught Tuna Burgers",
+    "Realgood Chicken Tenders/Nuggets",
+    "Wild Caught Frozen Langostino Lobster Tails",
+    "Realgood Chicken Strips",
+    "Kevin's Natural Foods Korean BBQ Chicken",
+    "Tyson's Boneless Skinless Chicken Breast",
+    "Market 32 Wild Caught Scallops",
+    "Member's Mark Salmon Fillets",
+    "Stew Leonard's Greek Yogurt",
+    "Sea Queen Frozen Shrimp",
+    "Plainville Organic Turkey Burgers",
+    "Butterball All-Natural Turkey Burgers",
+    "Nature's Promise Pre-Cooked Shrimp",
+    "Turkey Burgers",
+    "Plain Greek Yogurt",
+    "Member's Mark Rotisserie Chicken Breast Bites",
+    "Simply Nature 100% Grass Fed Beef Burger",
+    "Elevation Protein Puffs",
+    "Tyson Grilled Chicken Breast Strips",
+    "Butterball Turkey Burgers",
+    "Wellsley Farms Precooked Chicken Skewers",
+    "Beyond “Steak” Tips",
+    "Quest Bars",
+    "Kirkland Protein Bars",
+    "Pure Protein Bars",
+    "Tyson's Fajita Chicken Strips",
+    "Nature's Promise Naturals Laura's Ground Beef Patty",
+    "Tyson's Ready Grilled Blackened Chicken Strips",
+    "MorningStar Incogmeato Steakhouse Style Patty",
+    "Beyond Meat Steak Tips",
+    "Branzino fillets",
+    "Quest Protein Bars",
+    "Beyond Steak Tips",
+    "Bel & Evan's Chicken Burger",
+    "Good Catch “Fish” Burgers",
+    "Whole Foods Classic Chicken Salad",
+    "Tyson's Grilled Chicken Strips",
+    "Bubba's Grass-Fed Burgers",
+    "Member's Mark Mesquite Grilled Chicken Breast",
+    "Aldi's Rotisserie Pulled Chicken",
+    "Aldi's Rotisserie Style Pulled Pork",
+    "Perdue Chicken Short Cuts",
+    "Springer Mountain Chicken Burgers",
+    "Big Y Frozen Beef Burger",
+    "Tyson's Blackened Unbreaded Chicken Strips",
+    "Perdue Short Cuts Grilled Chicken Strips",
+    "Premier Protein Cereal",
+    "Applegate Turkey Burgers",
+    "Perdue Short Cuts Carved Chicken Breast",
+    "Kevin's Natural Foods Chipotle Lime Chicken",
+    "RealGood Food Co. Orange Chicken Bowl",
+    "Good & Gather Salmon Burgers",
+    "ONE Bars",
+    "Appleton Farms Fajita Chicken Strips",
+    "Wellsley Farms Frozen Chicken Wings",
+    "Quest Chips",
+    "Wild Spark Bruschetta Chicken Patty",
+    "Bowl & Basket Tilapia Fillets",
+    "Smart One's Egg & Cheese Scramble",
+    "Chile Lime Chicken Burgers",
+    "Philly Gourmet Beef Burgers",
+    "Mighty Spark Bruschetta Chicken Patties",
+    "Healthy Choice Zero Sesame Chicken Zoodles Frozen Meal",
+    "John Soules Fajita Chicken Strips",
+    "Friendly Farms Greek Yogurt",
+    "World Catch Salmon Burgers",
+    "Wellsley Farms Greek Yogurt",
+    "Kirkland Plain Greek Yogurt",
+    "Vital Proteins Collagen Peptides",
+    "Meal Mart Beef Patties",
+    "Good Neighbor Bacon Cheddar Shrimp Burger",
+    "Foster Farms Frozen Grilled Chicken Breast Strips",
+    "Special K Zero Sugar Cereal",
+    "Good & Gather Steakhouse Seasoned Beef Patties",
+    "Just Grilled Chicken Strips",
+    "Fage Plain Yogurt",
+    "Gardein Beefless Ground",
+    "Healthy Choice Zero Sugar Verde Chicken Bowl",
+    "Gardein Plant Based Ground “Beef”",
+    "P3 Protein Portable Protein Snack",
+    "Fiorucci Prosciutto Wrapped Cheese Sticks",
+    "Member's Mark Oven Roasted Wings",
+    "Member's Mark Tilapia Fillets",
+    "Member's Mark Plain Greek Yogurt",
+    "Fage Greek Yogurt",
+    "Morningstar Garden Veggie Burgers",
+    "Quorn Meatless Pieces",
+    "Real Good Pizza Co Frozen Pizza",
+    "Gardein Ultimate Plant-Based Unbreaded Chicken Strips",
+    "Red's Turkey Sausage Egg'wich",
+    "Gardein Plant-Based Ground Beef",
+    "Oikos Triple Zero Yogurt",
+    "Hormel Slow Simmered Beef Tips",
+    "Gorton's Grilled Salmon",
+    "Just Bare Lightly Breaded Chicken Strips",
+    "Member's Mark Mozzarella Chicken Meatballs",
+    "Walsea Frozen Scallops",
+    "Earth Grown Flame Grilled Protein Burger",
+    "Simms Original Beef Jerky",
+    "Amylu Chicken Burgers",
+    "Wellsley Farms Tomato, Basil, & Mozzarella Cheese Sausage",
+    "Fit Crunch Bars",
+    "Kirkland Pulled Pork",
+    "Yves Veggie Burgers",
+    "Friendship Cottage Cheese",
+    "Stryve Thinly Sliced Steak Strips",
+    "Good & Gather Andouille Chicken Sausage",
+    "Eggwich Breadless Breakfast Sandwich",
+    "Beefless Bulgogi",
+    "Fage Plain Greek Yogurt",
+    "Gorton's Lemon Butter Grilled Cod Fillets",
+    "Member's Mark Bacon Wrapped Scallops",
+    "Butera's Chicken Meatballs",
+    "Fremont Salmon Burgers",
+    "Aidell's Italian Style Sausage",
+    "Naked Cooked Shrimp",
+    "Sola Bagels",
+    "Al Dente Carba-Nada Fettucine",
+    "Wonderworks Keto Cereal",
+    "Darigold Cottage Cheese",
+    "Perdue Lightly Breaded Chicken Breast Nuggets",
+    "Bowl & Basket Pre-Cooked Shrimp",
+    "Three Bridges Egg White Bites",
+    "Good Culture Cottage Cheese",
+    "Mahi Mahi Burger",
+    "Premium Salmon Burger",
+    "Fulfill Protein Bars",
+    "The Organic Meat Company 100% Grass Fed Beef Burgers",
+    "Market 32 All-Natural Cooked Shrimp",
+    "Quorn Meatless Turkey-Roast",
+    "Bremer's Frozen Meatballs",
+    "Cattleman's Ranch Homestyle Meatloaf",
+    "Earth Grown Meatless Meatballs",
+    "Wellsley Farms Swedish Meatballs",
+    "Wellsley Farms Precooked Shrimp",
+    "Wild Caught Terriyaki Salmon Burgers",
+    "All American Boca Burger",
+    "Tillamook Zero Sugar Beef Jerky",
+    "Cooked Perfect Turkey Meatballs",
+    "Gardein Plant Based Beef Tips",
+    "SeaPak Alaskan Salmon Burgers",
+    "Boca Burgers",
+    "Tofurky Deli Slices",
+    "To'Furkey Deli Slices",
+    "Whole Foods Organic Spicy Italian Chicken Sausage",
+    "Tofurky Plant Based Deli Slices",
+    "Trident Alaskan Salmon Burgers",
+    "Friendly Farms Cottage Cheese",
+    "Savoritz Parmesan Crisps",
+    "Wellsley Farms Turkey Meatballs",
+    "Pound of Ground Burger Thins",
+    "Al Fresco Chicken Sausage",
+    "Lightlife Deli Slices",
+    "Fairlife Milk",
+    "Banza Protein Pasta",
+    "Whisps",
+    "Al Fresco Chicken Sausages",
+    "Boca All American Veggie Burger",
+    "Fairlife Ultra-Filtered Milk",
+    "Jack Links Zero Sugar Beef Jerky",
+    "Atkin's Protein Chips",
+    "Wilde Protein Chips",
+    "Shrimp Seafood Burger",
+    "Great Value Light Greek Yogurt",
+    "Great Value Zero Sugar Beef Jerky",
+    "Atkins Protein Chips",
+    "Al Fresco Chicken Meatballs",
+    "Pics Cottage Cheese",
+    "Culinary Tours Dry Roasted Edamame Pouches",
+    "Jimmy Dean Turkey Sausage",
+    "Member's Mark Pulled Pork",
+    "Member's Mark Pre-Cooked Shrimp",
+    "Breakstone's Cottage Cheese",
+    "Taco Bell Cheddar Crisps",
+    "Perdue Air-Fryer Ready Wings",
+    "Magic Spook Cereal",
+    "Two Good Greek Yogurt",
+    "Lightlife Smart Dogs",
+    "Arnold Keto Sandwich Thins",
+    "Formaggio Artisan Prosciutto/Cheese Wraps",
+    "Foster Farms Hot & Spicy Wings",
+    "Archer 0 Sugar Beef Jerky",
+    "Good & Gather Pre-Cooked Shrimp",
+    "Archer Zero Sugar Grass-Fed Beef Jerky",
+    "Spicy Uncured Charcuterie Selection",
+    "Cheese Spinach & Kale Egg Bites",
+    "Epic Bison Bars",
+    "Oven Baked Cheese Bites",
+    "Great Value Precooked Shrimp",
+    "Great Value Cottage Cheese",
+    "Magic Spoon Cereal",
+    "Sola Keto Hamburger Buns",
+    "Gusto Genoa Salami Packs",
+    "Market 32 Spinach Garlic Chicken Sausage",
+    "Pier 33 Gourmet Mussel Meat",
+    "Member's Mark Oven Roasted Turkey Slices",
+    "L'Oven Fresh Keto Bagel",
+    "Krakus Slices Polish Ham",
+    "Breakstone Cottage Cheese",
+    "Epic Baked Pork Rinds",
+    "MorningStar Garden Veggie Burgers or Griller Crumbles",
+    "Catalina Crunch Cereal",
+    "SeaPoint Farms Dry Roasted Edamame Pouches",
+    "MorningStar Garden Veggie Burger",
+    "Applegate Turkey Sausage",
+    "Good & Gather Protein Pack Quick Bites",
+    "Everything But The Bagel Seasoned Smoked Salmon",
+    "Chickenless Crispy Tenders",
+    "Natural Beef Jerky",
+    "Applegate Turkey Sausages",
+    "P3 Turkey/Cheese/Almond Packs",
+    "Applegate Turkey Breast Slices",
+    "Epic Oven-Baked Pork Rinds",
+    "Moon Cheese",
+    "Epic BBQ Chicken Bar",
+    "Castle Wood Oven Roasted Chicken Breast Slices",
+    "Castle Wood Smoked Uncured Ham",
+    "Kirkwood Buffalo Wings",
+    "Earth Grown Chickenless Patties",
+    "Elevation Snack Advance Bar",
+    "Park Street Deli Protein Snack Packs-Cheese/Turkey Bites",
+    "Butterball All Natural Sausage Links",
+    "Simply Protein Chocolate Coconut Bites",
+    "Parm Crisps Snack Mix",
+    "Three Little Pigs Sous Vide Egg Bites",
+    "Chomps Beef/Turkey Sticks",
+    "Good & Gather Uncured Diced Ham",
+    "Boar's Head Turkey Pepperoni",
+    "Frozen Palak Paneer",
+    "Jones Canadian Bacon",
+    "Great Value Deli Sliced Roast Beef",
+    "Great Value Black Forest Ham",
+    "Quest Cheese Crackers",
+    "Fiber One Protein 1 Mini Bar",
+    "PB Fit Protein Peanut Butter",
+    "Jone's Canadian Bacon",
+    "Morningstar Veggie Burger",
+    "Member's Mark Fully Cooked Canadian Bacon",
+    "Stew Leonard's Naked Chicken Chili",
+    "Lunch Mate Deli Selected Oven Roasted Turkey Slices",
+    "Hommel Turkey Pepperoni",
+    "Morningstar Veggie Sausages",
+    "Hormel Turkey Pepperoni",
+    "Nasoya Tofu",
+    "Applegate Breakfast Sausage",
+    "MorningStar Veggie Sausage",
+    "Arnold Keto Hamburger/Hotdog Buns",
+    "MorningStar Sausage Patties",
+    "Hilo Life Keto Tortilla Chips",
+    "Morningstar Veggie Griller Crumbles",
+    "Chomps Beef Sticks",
+    "Good & Gather Pork Rinds",
+    "Beefless Ground Beef",
+    "Unsweetened Soy Beverage",
+    "Cauliflower Sandwich Thins",
+    "Chomps Zero Sugar Beef Sticks",
+    "Great Value Deli Sliced Turkey Breast",
+    "Applegate Organic Uncured Beef Hot Dog",
+    "Natural Power-Fu Vegetarian Chicken Salad",
+    "Outer Aisle Cauliflower Sandwich Thins",
+    "Perfectly Crisp Crackers",
+    "Quorn “Chicken” Fillets",
+    "Country Archer Zero Sugar Beef Stick",
+    "Pacific Bone Broth",
+    "L'Oven Fresh Keto Friendly Hamburger Buns",
+    "Appleton Farms Bite-Sized Dry Salami",
+    "Parkview Turkey Polska Kielbasa",
+    "Clancy's Pork Rinds",
+    "Peanut Delight Natural Peanut Butter",
+    "Hillshire Farms Turkey Polska Kielbasa",
+    "Chef's Cut Beef Sticks",
+    "Teddie's All-Natural Peanut Butter",
+    "North Country Smokehouse Polish Kielbasa",
+    "UTZ Pork Rinds",
+    "Teddy's All-Natural Peanut Butter",
+    "Green Ridge Beef Sticks",
+    "Epic Pork Rinds",
+    "PB Fit Peanut Butter Powder",
+    "Crazy Richard's Natural Peanut Butter",
+    "Good Karma Flax Milk",
+    "Hillshire Farm Turkey Kielbasa",
+    "Soy Chorizo",
+    "Egg Wraps",
+    "Applegate Pork & Beef Uncured Pepperoni",
+    "Ripple Unsweetened Pea Milk",
+    "Original Salami Minis",
+    "Banquet Brown n' Serve Turkey Sausage",
+    "Teddie's Natural Peanut Butter",
+    "Swaggerty's Farm Premium Sausage",
+    "Parm Crisp Snack Mix",
+    "Stew's Chicken Kale Soup",
+    "Simply Nature Soy Milk",
+    "Happy Farms String Cheese",
+    "Appleton Farms Prosciutto",
+    "Savortitz Keto Crackers",
+    "Simply Nature Creamy Almond Butter",
+    "Applegate Organic Beef Hotdogs",
+    "Wellsley Farms Cheese Sampler",
+    "Nature's Garden Probiotic Keto Snack Mix",
+    "Skippy's Natural Peanut Butter",
+    "Applegate Uncured Beef Hotdog",
+    "Applegate Sunday Bacon",
+    "Nature's Garden Keto Snack Mix",
+    "Applegate Hot Dogs",
+    "Pork Rinds",
+    "Applegate Uncured Hot Dogs",
+    "Applegate Uncured Salami",
+    "Good & Gather Lt Cheese Sticks",
+    "Meatless Breakfast Patties",
+    "Organic String Cheese",
+    "Feta Cheese Crumbles",
+    "Organic Peanut Butter Powder",
+    "Oscar Meyer Precooked Bacon",
+    "Oscar Meyer Hard Salami",
+    "Keto Culture Hot Dog Buns",
+    "Smart Dogs Vegan Hot Dogs",
+    "Cali'Flour Pizza Crust",
+    "Formaggio Artisan Cheese/Prosciutto Wraps",
+    "Member's Mark Natural Almond Butter",
+    "Earth Grown Plant-Based Taco Filling",
+    "Veggies Made Great Frozen Egg White Bites",
+    "Applegate Uncured Sunday Bacon",
+    "Wellsley Farms Precooked Hardboiled Eggs",
+    "Joseph's Pita Bread",
+    "Formaggio Artisan Prosciutto Cheese Sticks",
+    "Vermont Pork/Beef Snack Sticks",
+    "Frigo Light String Cheese",
+    "Frigo String Cheese",
+    "Flackers",
+    "PB2 Peanut Butter Powder",
+    "Applegate Turkey Bacon",
+    "Applegate Uncured Sunday Pork Bacon",
+    "ShopRite Beef Sandwich Steaks",
+    "Frigo Cheese heads String Cheese",
+    "Joseph's Flax & Oat Bran Pita",
+    "Nature's Own KETO Bread",
+    "Columbus Hard Salami",
+    "The Bridge Tofu Salad",
+    "Colombus Salame",
+    "Sargento Light String Cheese",
+    "Member's Mark Hard Salami",
+    "Great Day Farms Pre-Cooked Hard Boiled Eggs",
+    "Old Wisconsin Turkey Stick",
+    "John F Martin's Turkey Bacon",
+    "Stew's String Cheese",
+    "Stew Leonard's Cracker Cuts",
+    "L'Oven Fresh Keto 0 Net Carb Bread",
+    "Appleton Precooked Bacon",
+    "Nathan's Skinless Beef Franks",
+    "Pitted Olives/Greek Feta Salad",
+    "Park Street Antipasto Salad",
+    "Egg Life Egg White Wraps",
+    "Mission Carb Balance Tortillas",
+    "Mission Carb Balance Tortilla",
+    "NuTrail Low Carb Granola",
+    "Babybel Snack Cheeses",
+    "Egglife Wraps",
+    "Babybel Lt Cheese Wheels",
+    "Babybel Cheese",
+    "Applegate Uncured Bacon",
+    "Babybel Cheeses",
+    "Chevre Creamy Fresh Goat Cheese",
+    "Applegate Chicken & Maple Breakfast Sausage",
+    "Applewood Smoked Uncured Bacon",
+    "Flackers Crackers",
+    "Cabot Extra Sharp Cheese Snacks",
+    "Hormel Black Label Pre-Cooked Bacon",
+    "Member's Mark Extra Lean Premium Ham Slices",
+    "Member's Mark Pepperoni",
+    "Havarti & Gouda Cheese Snack Packs",
+    "La Banderita Carb Counter Wraps",
+    "Ole Xtreme Wellness Wraps",
+    "Hormel Black Label Fully Cooked Bacon",
+    "Crepini Cauliflower Wraps",
+    "Kevin's Natural Foods Cauli & Cheese",
+    "Wellsley Farms Pre-Cooked Bacon",
+    "Arnold Keto Bread",
+    "Babybel Cheese Wheels",
+    "Blue Diamond 100 Calorie Nut Pouches",
+    "Autumn's Gold Grain-Free Granola",
+    "Crepini Egg White Thins",
+    "NuTrail Keto Granola",
+    "Sigdal Bakeri Gluten Free Everything Norwegian Crispbread Crackers",
+    "No Sugar Dry Rubbed Uncured Bacon",
+    "Mini Brie Bites",
+    "Silk Next Milk Oat Milk",
+    "Keto Culture Bread",
+    "Paleonola Grain Free Original Granola",
+    "L'Oven Fresh Keto Friendly Low Carb Wrap",
+    "Artisan Bakers Multiseed Keto Bread",
+    "Emerald 100 Calorie Nut Pouches",
+    "Esti Spinach Artichoke Dip",
+    "Trader Joe's Carb Savy Bread",
+    "Buffalo Style Chicken Dip",
+    "La Terra Fina Spinach Parmesan Dip",
+    "Season's Choice Cauliflower Rice",
+    "Happy Farms Creamy Swiss Cheese Wedges",
+    "Simply Nature Tomato & Basil Pasta Sauce",
+    "Simply Truth Buffalo Cauliflower Dip",
+    "Taste of the South Fried Pickle Ranch Dip",
+    "Wellsley Farms Cauliflower Rice",
+    "Wellsley Farms Tzatziki",
+    "Classico Tomato & Basil Pasta Sauce",
+    "Sara Lee Delightful 45 Bread",
+    "Mission Zero Net Carbs Street Tacos",
+    "Green Giant Cauliflower Rice",
+    "Wasa Light Rye Crackers",
+    "Cedar's Spinach Artichoke Tzatziki",
+    "La Ferra Tina Everything Bagel Dip",
+    "Frozen Riced Cauliflower",
+    "Old Tyme Schmidt 647 Bread",
+    "Laughing Cow Cheese Wedges",
+    "Rao's Homemade Marinara",
+    "Sarah Lee Delightful 45 Bread",
+    "Bowl & Basket Frozen Cauliflower Rice",
+    "Esti Everything Bagel Dip",
+    "Cedar's Tzatziki Dip",
+    "La Banderita Carb Counter Tortilla",
+    "Classico Tomato Basil Pasta Sauce",
+    "Riced Cauliflower Stir Fry",
+    "Cauliflower Tabouleh",
+    "Butterball Low Sodium Turkey Bacon",
+    "Morningstar Veggie Bacon Strips",
+    "Cucina Antica Truffle Alfredo Sauce",
+    "Cloudies Cloud Bread",
+    "Green Giant Cheesy Riced Cauliflower & Broccoli",
+    "Green Giant Cauliflower Risotto Medley",
+    "Cedar's Tzatziki or Hummus Dip",
+    "Lidia's Marinara Sauce",
+    "Cedar's Feta Dip",
+    "Friendly Farms Unsweetened Almond Milk",
+    "Praino Creamy Alfredo Sauce",
+    "Spinach Artichoke Tzatziki Dip",
+    "Park Street Deli Guacamole Single Cups",
+    "Creamy Dill Tzatziki Dip",
+    "Unsweetened Almond Milk",
+    "Guacamole Now",
+    "Hunt's Tomato Sauce",
+    "Silk Unsweetened Almond Milk",
+    "Yo Mama's Tomato Sauce",
+    "Classico Creamy Alfredo Sauce",
+    "Healthy Noodle",
+    "Kirkland Unsweetened Almond Milk",
+    "Kirkland Organic Roasted Seaweed Snacks",
+    "Wholly Guacamole Minis",
+    "Planet Oat Unsweetened Oat Milk",
+    "Kitu Super Cream in Toasted Hazelnut",
+    "Palmini Hearts of Palm Angel Hair",
+    "Annie Chun's Roasted Seaweed Snacks",
+    "Bowl & Basket No Salt Added Tomato Sauce",
+    "Paesana Tomato Sauce",
+    "Cucina Antica No Sugar Added Pasta Sauce",
+    "Good & Gather Whipped Cream Cheese",
+    "Good & Gather Cauliflower Rice",
+    "Sweet Baby Ray's No Sugar Added BBQ Sauce",
+    "Zucchini Spirals",
+    "Roasted Seaweed snacks",
+    "Tzatziki Dip",
+    "Spinach & Kale Dip",
+    "Silk Cashew Milk",
+    "Great Value Whipped Plain Cream Cheese Spread",
+    "Great Value Cauliflower Rice",
+    "Palmini Hearts of Palm Pasta / Rice",
+    "Palmini Lasagna Sheets",
+    "Blue Diamond Unsweetened Almond Milk",
+    "Yo Mama's Basil Tomato Sauce",
+    "Acid League Miso Cesar Dressing",
+    "Yosi Tzatziki Sauce",
+    "Kitehill Dairy-Free Tzatziki",
+    "Kitehill Dairy-Free French Onion Dip",
+    "Silk Unsweetened Cashew Milk",
+    "Kitu Super Creamer",
+    "Classico Alfredo Sauce",
+    "Member's Mark Guacamole Mini's",
+    "Member's Mark Cucumber Garlic Tzatziki Dip",
+    "Yo Mama's Pasta Sauce",
+    "Stew Leonard's Whipped Cream Cheese",
+    "Palmini Rice",
+    "Oh Snap! Dill Pickle Bites",
+    "Tuscan Garden Zesty Italian Dressing",
+    "Nut Pods Unsweetened Creamer",
+    "It's Skinny Rice",
+    "Skinny Girl Fruit Preserves",
+    "G Hughe's SF Sauces/Condiments",
+    "Bolthouse Farms Salad Dressings",
+    "Skinny Girl Salad Dressings",
+    "Frutto D'Italia Olive Pouches",
+    "NutPods Unsweetened Creamer",
+    "Polaner Fiber Strawberry Jelly",
+    "Nut Pods Unsweetened Coffee Creamer",
+    "Smucker's Sugar Free Jelly",
+    "Canned Jackfruit",
+    "Coconut Creamer",
+    "Jicama Wraps",
+    "Green Dragon Hot Sauce",
+    "Green Goddess Dressing",
+    "Jordan's Skinny Syrups",
+    "Miracle Rice",
+    "Miracle Noodles",
+    "Califia Farms Unsweetened Creamer",
+    "Gimme Seaweed Snacks",
+    "It's Skinny Pasta",
+    "Heinz No Sugar Added Ketchup",
+    "Kinder's Buttery Buffalo Wing Sauce",
+    "Natural Heaven's Hearts of Palm Pasta"
+  ]
+}

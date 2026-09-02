@@ -1,0 +1,11 @@
+node_modules/
+dist/*.html
+dist/*.json
+dist/*.pdf
+!dist/.gitkeep
+.DS_Store
+Thumbs.db
+
+# Raw client drops - 896 MB of zips, two over GitHub's 100 MB file limit
+_source/_inbox/
+*.zip

@@ -1,0 +1,8 @@
+{
+  "_warning": "SYNTHETIC TEST DATA. NOT FOOD ADVICE. NOT CLINICAL CONTENT.",
+  "foods": [
+    { "id": "test-protein-block", "name": "TEST BLOCK P", "serving": "1 unit", "kcal": 150, "protein": 30, "carb": 2, "fat": 3, "source": "FIXTURE" },
+    { "id": "test-carb-block",    "name": "TEST BLOCK C", "serving": "1 unit", "kcal": 100, "protein": 4,  "carb": 20, "fat": 0.5, "source": "FIXTURE" },
+    { "id": "test-fat-block",     "name": "TEST BLOCK F", "serving": "1 unit", "kcal": 90,  "protein": 0,  "carb": 0,  "fat": 10, "source": "FIXTURE" }
+  ]
+}

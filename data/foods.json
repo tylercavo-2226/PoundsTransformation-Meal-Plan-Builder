@@ -1,0 +1,14 @@
+{
+  "_schema": {
+    "id": "kebab-case unique id",
+    "name": "patient-facing name",
+    "serving": "human-readable serving, e.g. '4 oz' or '1 scoop'",
+    "kcal": "number, per serving",
+    "protein": "grams per serving",
+    "carb": "grams per serving",
+    "fat": "grams per serving",
+    "source": "REQUIRED. Filename in _source/ this came from. A food with no source will not build."
+  },
+  "_status": "EMPTY BY DESIGN. TODO(sharepoint): populate only from Pounds practice material in _source/. Do not add foods from general nutrition knowledge.",
+  "foods": []
+}
